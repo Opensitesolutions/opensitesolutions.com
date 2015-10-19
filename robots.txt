@@ -1,0 +1,3 @@
+user-agent: *
+Sitemap: http://www.opensitesolutions.com/sitemap.xml.gz
+Sitemap: http://www.opensitesolutions.com/sitemap.xml

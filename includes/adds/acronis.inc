@@ -1,0 +1,1 @@
+<a href="http://gan.doubleclick.net/gan_click?lid=41000000029195310&pubid=21000000000305502"><img src="http://gan.doubleclick.net/gan_impression?lid=41000000029195310&pubid=21000000000305502" border=0 alt="Acronis Backup &amp; Recovery 10 Advanced Server Virtual Edition 468x60 banner"></a>
