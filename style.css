@@ -20,7 +20,7 @@ body
 {
 	font-family: Arial, sans-serif;
 	font-size: 10pt;
-	color: #666;
+	color: #666; 
 	background-color: #fff;
 }
 
@@ -49,7 +49,8 @@ a:hover
 #header
 {
 	position: relative;
-	background: #004778 url('images/a5.gif') bottom left repeat-x;
+	<!-- background: #004778 url('images/a5.gif') bottom left repeat-x;-->
+	background: #ffffff url('images/a5.gif') bottom left repeat-x;
 	height: 10em;
 	padding-left: 2em;
 }
@@ -107,7 +108,8 @@ a:hover
 
 #menu li a
 {
-	color: #fff;
+	<!-- color: #fff; -->
+	color: #000;
 	padding: 0.1em;
 	text-decoration: none;
 }

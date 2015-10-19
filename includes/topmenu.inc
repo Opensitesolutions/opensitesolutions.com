@@ -1,10 +1,9 @@
 <div id="header">
-                <h1><a href="#">OpenSiteSolutions</a></h1>
-                <h2>open source alternative solutions</h2>
+                <a href="#"><img src="/images/logo.png"></a>
         </div>
         <div id="menu">
                 <ul>
-                        <li class="first"><a href="/index.php" accesskey="1" title="">Home</a></li>
+                        <li class="first"><a href="/home.php" accesskey="1" title="">Home</a></li>
                         <li><a href="/services/index.php" accesskey="2" title="">Applications</a></li>
                         <li><a href="/services/integrators.php" accesskey="3" title="">Integrators</a></li>
                         <li><a href="/services/docs/" accesskey="4" title="">Articles</a></li>
