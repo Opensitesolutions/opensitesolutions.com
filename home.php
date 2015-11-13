@@ -14,14 +14,10 @@
                 <div id="primaryContentContainer">
                         <div id="primaryContent">
 				<h2>Operating System - Alternative to Windows</h2>
-				<a href='https://opensitesolutions.freshbooks.com/refer/www' style='background-color: transparent;'><img src='http://www.freshbooks.com/images/banners/freshbooks-728x90.png' width='728' height='90' border='0' alt='FreshBooks' /></a>
 				<br><br>
 				<p>
 OpenSiteSolutions informing about integrators, hardware and Open Source solutions that can be used as an alternative to commercial software. Open source solutions are comprised of different software bundled together to create a unique and most times better solution than commercial software.
 </p>
-
-
-
 
 <p class="post align-right">
         <ul>

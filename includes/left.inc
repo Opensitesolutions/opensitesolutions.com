@@ -2,7 +2,7 @@
                 <div id="secondaryContent">
                         <h3>Open Source Solutions</h3>
                         <ul>
-				<li><a href="/index.php" title="open source Windows Alternative">Operating System</a></li>
+				<li><a href="/home.php" title="open source Windows Alternative">Operating System</a></li>
         			<li><a href="/services/business.php" title="Open Source alternative for Business">Business Applications</a></li>
         			<li><a href="/services/network.php" title="Open Source for Network Solutions">Network Solutions</a> </li>
         			<li><a href="/services/altghost.php" title="Open Source alternative cloning">Disk Cloning Solutions</a> </li>
