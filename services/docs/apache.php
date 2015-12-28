@@ -88,7 +88,7 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
 						SecFilterSelective ARGS "bin/"<br><br>
 
 						#Guard against Cross site scripting attacks<br>
-						SecFilter "<script" <br>
+						SecFilter "<script"></script><br>
 						SecFilter "<.+>"<br><br>
 
 						#Guard against directory traversal<br>
