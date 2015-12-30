@@ -17,10 +17,7 @@ set_include_path ("/var/www/html/oss/");
                 <div id="primaryContentContainer">
                         <div id="primaryContent">
                                 <h2>About OpenSiteSolutions</h2>
-				<?php
-					include 'includes/adds/google_advertise.inc';
-				?>
-
+			
 				<br><br>
         <p>
 OpenSiteSolutions informing about integrators, hardware and Open Source applications that can be used as an alternative to commercial software. Open source solutions are comprised of different software applications bundled together to create a unique and most times better solution than commercial software. 

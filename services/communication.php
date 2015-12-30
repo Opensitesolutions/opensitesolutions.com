@@ -17,11 +17,8 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
                 <div id="primaryContentContainer">
                         <div id="primaryContent">
                                 <h2 id="top">Internet Communication</h2>
-				<?php
-					include 'includes/adds/google_advertise.inc';
-				?>
-
-<br><br>
+				
+<br>
 <h2>Categories</h2>
 <ul>
 <li><a href="#im">Open source Instant Messenger</a></li>

@@ -16,12 +16,8 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
 <!-- Center Column -->
                 <div id="primaryContentContainer">
                         <div id="primaryContent">
-                                <h2 id="top">Open Source Online Network Tools - Alternative to DNSSTUFF</h2>
-				<?php
-					include 'includes/adds/google_advertise.inc';
-				?>
-
-<br><br>
+                                <h2 id="top">Open Source Online Network Tools - Alternative to DNSSTUFF</h2>	
+<br>
 <h5 id="prog">Online Tools - Alternative to Dnsstuff.com</h5>
 <p class="post align-right">
         <ul>

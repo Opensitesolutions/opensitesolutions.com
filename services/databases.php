@@ -17,10 +17,7 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
                 <div id="primaryContentContainer">
                         <div id="primaryContent">
                                 <h2 id="top">Databases</h2>
-				<?php
-					include 'includes/adds/google_advertise.inc';
-				?>
-
+				
 <p class="post align-right">
         <ul>
         <b>Open Source Solutions</b>
@@ -30,7 +27,7 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
 	<li><a href="http://hsqldb.org/" target="_blank">HSQLDB</a> is the leading SQL relational database engine written in Java. It has a JDBC driver and supports a rich subset of ANSI-92 SQL (BNF tree format) plus SQL 99 and 2003 enhancements. It offers a small (less than 100k in one version for applets), fast database engine which offers both in-memory and disk-based tables and supports embedded and server modes. Additionally, it includes tools such as a minimal web server, in-memory query and management tools (can be run as applets) and a number of demonstration examples.</li><br>
         <li><a href="http://www.ingres.com/">Ingres</a> is known as a reliable and scalable open source database the proprietary products Sybase, SQL Server and I nformix all have their roots in Ingres, as does PostgreSQL.</li><br>
         <li><a href="http://www.mysql.com/">Mysql</a> database has become the world's most popular open source database because of its consistent fast performance, high reliability and ease of use, it's also become the database of choice for a new generation of applications built on the LAMP stack (Linux, Apache, MySQL, PHP / Perl / Python.) MySQL runs on more than 20 platforms including Linux, Windows, OS/X, HP-UX, AIX, Netware, giving you the kind of flexibility that puts you in control.</li><br>
-	<li><a href="http://www.picosoft.it/picosql/" target="_blank">PicoSQL</a> is the first Italian Open Source relational database management system. The project of picoSQL was born in 1995. It was an ODBC driver for COBOL indexed files. It consisted of a DLL written in C++ on Windows 3.1 operating system. The project of picoSQL was born in 1995. It was an ODBC driver for COBOL indexed files. It consisted of a DLL written in C++ on Windows 3.1 operating system. PicoSQL can be used from Windows applications (like MS-ACCESS ;©, MS-Query ©, VB © etc.) in client/server modality using the ODBC driver picoSQLNet. It can moreover be used from appropriate Java programs through the JDBC driver comprised in the distribution. Finally it can be used from programs written in C and C++ through its set of ODBC 2.5 compliant API.</li><br>
+	<li><a href="http://www.picosoft.it/picosql/" target="_blank">PicoSQL</a> is the first Italian Open Source relational database management system. The project of picoSQL was born in 1995. It was an ODBC driver for COBOL indexed files. It consisted of a DLL written in C++ on Windows 3.1 operating system. The project of picoSQL was born in 1995. It was an ODBC driver for COBOL indexed files. It consisted of a DLL written in C++ on Windows 3.1 operating system. PicoSQL can be used from Windows applications (like MS-ACCESS ;ï¿½, MS-Query ï¿½, VB ï¿½ etc.) in client/server modality using the ODBC driver picoSQLNet. It can moreover be used from appropriate Java programs through the JDBC driver comprised in the distribution. Finally it can be used from programs written in C and C++ through its set of ODBC 2.5 compliant API.</li><br>
         <li><a href="http://www.postgresql.org/">Postgresql</a> The worlds most advanced open source database is a powerful, open source relational database syste
 m. It has more than 15 years of active development and a proven architecture that has earned it a strong reputation for reliability, data integrity, and correctne
 ss. It runs on all major operating systems, including Linux, UNIX (AIX, BSD, HP-UX, SGI IRIX, Mac OS X, Solaris, Tru64), and Windows.</li><br>
