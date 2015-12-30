@@ -17,11 +17,7 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
                 <div id="primaryContentContainer">
                         <div id="primaryContent">
                                 <h2 id="top">Open Source Integrators</h2>
-				<?php
-					include 'includes/adds/google_advertise.inc';
-				?>
-
-<br><br>
+<br>
 <h2>Categories</h2>
 
 
@@ -30,7 +26,6 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
 <li><a href="#backup">Backup - Archiving</a></li>
 <li><a href="#comm">Communication</a></li>
 <li><a href="#web">Web Colloboration</a></li>
-<li><a href="#customer">Customer Contact Center</a></li>
 <li><a href="#idm">Identity Management</a></li>
 </ul>
 
@@ -140,25 +135,6 @@ Featured Services:
 <a href="#top">Top</a>
 </ul>
 
-</p>
-
-<h5 id="customer">Customer Contact Center</h5>
-<p class="post align-right">
-        <ul>
-        <b>Open Source Solution</b>
-        <li><a href="http://www.fastcastnetworks.com/index.html">Fastcastnetworks</a> accelerated Notification offers organizations the ability to send targeted a
-nd high volume messages through phone calls, text and email.<br>
-        FastCast is built using open source software
-                <ul>
-                        <li>CentOS</li>
-                        <li>AJAX/Web UI </li>
-                        <li>Asterisk -Core piece of technology that powers the entire solution.</li>
-                        <li>FreePBX Web-based Asterisk configuration management tool which allows for easy solution expansion and adaptability.</li>
-                        <li>PHP, Apache, MySQL - Stack of open source components that provides web and data storage capabilities.</li>
-                </ul>
-        </li>
-<a href="#top">Top</a>
-        </ul>
 </p>
 
 <h5 id="idm">Identity Management</h5>
