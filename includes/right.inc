@@ -13,7 +13,6 @@
                        <br><br>
  
 		               <div class="xbg">
-
                          
                        <br><br>
  
