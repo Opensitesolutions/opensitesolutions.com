@@ -17,11 +17,7 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
 <!-- Center Column -->
                 <div id="primaryContentContainer">
                         <div id="primaryContent">
-                                <h2 id="top">Open Source Solutions for Business</h2>
-				<?php
-					include 'includes/adds/google_advertise.inc';
-				?>
-									
+                                <h2 id="top">Open Source Solutions for Business</h2>				
 <br><br>
 <h2>Categories</h2>
 <ul>
@@ -137,10 +133,7 @@ ting.<li><br>
         </ul>
 </p>
 
-
-
-
-                        </div>
+                     </div>
                 </div>
         <!-- End center Column -->
 
