@@ -16,7 +16,7 @@
                          
                        <br><br>
  
-			<div class="xbg">
+		
 	</div>
                 </div>
         <!-- End Right Column -->
