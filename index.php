@@ -206,7 +206,11 @@ Have a good day, ”</p>
           <li><a href="http://site.toolsforthecloud.com/email/hosted-exchange.aspx?ci=58429&prog_id=495959&pl_id=495959" target="_blank">Email Services</a></li>
           <li><a href="http://site.toolsforthecloud.com" target="_blank">Domain Registration</a></li>
           <li><a href="http://site.toolsforthecloud.com/hosting/website-builder2.aspx?ci=1806&prog_id=495959" target="_blank">Website Builder</a>
+<<<<<<< HEAD
           <li><a href="http://www.fixyourip.com" target="_blank>Network Diagnostic Tools</a></li>
+=======
+          <li><a href="http://www.fixyourip.com" target="_blank">Network Diagnostic Tools</a></li>
+>>>>>>> aa7b7b391414fbd153eab974d0f4402b33ff35d1
           <li><a href="/index.php">Open source software solutions</a></li>
         </ul>
       </div>

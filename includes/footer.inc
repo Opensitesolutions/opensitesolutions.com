@@ -1,10 +1,14 @@
 <center>
+<<<<<<< HEAD
 <!-- Start Bluehost advertising -->
 <a href="//www.bluehost.com/track/cmills/bottom-link" target="_blank">
 <img border="0" src="//bluehost-cdn.com/media/partner/images/cmills/760x80/bh-ppc-banners-dynamic-760x80.png">
 </a>
 <!-- End Start Bluehost advertising -->
 
+=======
+<a href="http://www.securepaynet.net/email/hosted-exchange.aspx?ci=43232&prog_id=495959"><img src="https://img1.wsimg.com/rcc/extranet/marketing/banners/68086_Reseller_HostExch_468x60_V2.gif"/></a>
+>>>>>>> aa7b7b391414fbd153eab974d0f4402b33ff35d1
 </center>
  <!-- Footer -->
 
