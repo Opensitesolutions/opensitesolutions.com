@@ -17,7 +17,6 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
                 <div id="primaryContentContainer">
                         <div id="primaryContent">
                                 <h2 id="top">Emulation / Virtualization</h2>
-
 </p>
 <br><br>
 <h2>Categories</h2>
