@@ -13,7 +13,7 @@
         			<li><a href="/services/system.php" title="Open Source alternative System Utilities">System Utilities</a></li>
         			<li><a href="/services/databases.php" title="Open Source alternative Database Solutions">Databases</a></li>
         			<li><a href="/services/communication.php" title="Open Source alternative for Communicating on the Internet">Internet Communication</a></li>
-				<li><a href="/services/ecommerce.php" title="Open Source alternative Ecommerce Shopping Carts">Ecommerce </li>
+				    <li><a href="/services/ecommerce.php" title="Open Source alternative Ecommerce Shopping Carts">Ecommerce </li>
         			<li><a href="/services/education.php" title="Open Source alternative Solutions for Education">Education</a></li>
         			<li><a href="/services/medical.php" title="Open Source alternative Solutions for Medical Profession">Medical</a></li>
         			<li><a href="/services/integrators.php" title="Open Source alternative Integrators">Open Source Integrators</a></li>
