@@ -16,11 +16,7 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
 <!-- Center Column -->
                 <div id="primaryContentContainer">
                         <div id="primaryContent">
-                                <h2>Pfsense Monitoring</h2>
-				<?php
-					include 'includes/adds/google_advertise.inc';
-				?>
-								
+                                <h2>Pfsense Monitoring</h2>							
         <p>
         Pfsense firewall contains a large selection of real time reporting using stock open source software:
                 <ul>

@@ -17,10 +17,6 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
                 <div id="primaryContentContainer">
                         <div id="primaryContent">
                                 <h2 id="sect1">Apache</h2>
-				<?php
-					include 'includes/adds/google_advertise.inc';
-				?>
-
 <pre>
 <cite>
 BSD LDAP configuration

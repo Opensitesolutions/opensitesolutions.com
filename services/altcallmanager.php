@@ -17,10 +17,6 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
                 <div id="primaryContentContainer">
                         <div id="primaryContent">
                                 <h2 id="top">Cisco Call Manager</h2>
-				<?php
-					include 'includes/adds/google_advertise.inc';
-				?>
-
 <br><br>
 <h5 id="prog">Cisco Call Manager Software</h5>
 <p class="post align-right">

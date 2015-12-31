@@ -14,9 +14,6 @@
                 <div id="primaryContentContainer">
                         <div id="primaryContent">
 				<h2>Operating System - Alternative to Windows</h2>
-				<?php
-                                        include 'includes/adds/google_advertise.inc';
-                                ?>
 
 			<form method="post" action="/cgi-bin/htsearch">
 				<font size="-1">

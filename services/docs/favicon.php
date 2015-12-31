@@ -17,9 +17,6 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
                 <div id="primaryContentContainer">
                         <div id="primaryContent">
                                 <h2>Creating a Favourite Icon</h2>
-				<?php
-					include 'includes/adds/google_advertise.inc';
-				?>
 				
                 <p>
                 Every wonder how to make those favicon.ico images that appear besides your site name, or how to get rid of the <b>404</b> error messages "GET /favic

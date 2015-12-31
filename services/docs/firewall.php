@@ -17,10 +17,6 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
                 <div id="primaryContentContainer">
                         <div id="primaryContent">
                                 <h2>PFSense Firewall</h2>
-				<?php
-					include 'includes/adds/google_advertise.inc';
-				?>
-				
 <p>
 <p>Firewalls provide protection from hackers trying to gain access to your computer, network through malicious means. This ser
 ver sits between you and the internet acting as a security guard examining and stopping potential dangerous code.</p>

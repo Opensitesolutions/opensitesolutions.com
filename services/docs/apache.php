@@ -17,9 +17,6 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
                 <div id="primaryContentContainer">
                         <div id="primaryContent">
                                 <h2 id="sect1">Apache</h2>
-				<?php
-					include 'includes/adds/google_advertise.inc';
-				?>
 				<h3>Apache Modules</h3>
 				<p> Apache is the de-facto web server on the internet today and with the addition of modules becomes a very versatile server.
 					Modules are usually built to solve a certain problem or to provide a missing functionality. This open source
