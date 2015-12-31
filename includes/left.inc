@@ -25,7 +25,7 @@
 						</ul>
 				
 			<?php
- 			       include 'includes/adds/google_adsense_skyscraper_left.inc';
+ 			       include 'includes/adds/google_adsense_small_square_left.inc';
 			?>
 
                         <div class="xbg"></div>
