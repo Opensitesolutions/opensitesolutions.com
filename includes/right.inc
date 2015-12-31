@@ -13,18 +13,19 @@
                        <br><br>
  			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 				<!-- open_site_solutions_right_smaill_square -->
-				<ins class="adsbygoogle"
-     			style="display:inline-block;width:200px;height:200px"
-     			data-ad-client="ca-pub-9703614120192799"
-     			data-ad-slot="5027035417"></ins>
+				<ins class="adsbygoogle" style="display:inline-block;width:200px;height:200px" data-ad-client="ca-pub-9703614120192799" data-ad-slot="5027035417">
+     			</ins>
 			<script>
 				(adsbygoogle = window.adsbygoogle || []).push({});
 			</script>
 			<!--  End Google Add -->
 			
-			<!-- Begin Freshbook Add -->
-					<a href='https://opensitesolutions.freshbooks.com/refer/www' style='background-color: transparent;'><img src='https://www.freshbooks.com/images/banners/freshbooks-200x125.png' width='200' height='125' border='0' alt='FreshBooks' /></a>
+			<br><br>
 			
+			<!-- Begin Freshbook Add -->
+					<a href='https://opensitesolutions.freshbooks.com/refer/www' style='background-color: transparent;'>
+						<img src='https://www.freshbooks.com/images/banners/freshbooks-200x125.png' width='200' height='125' border='0' alt='FreshBooks' />
+					</a>
 			<!-- End Freshbook add -->
 		               <div class="xbg">
                          
