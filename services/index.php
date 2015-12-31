@@ -17,9 +17,6 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
                 <div id="primaryContentContainer">
                         <div id="primaryContent">
                                 <h2>Open Source Software</h2>
-				<?php
-					include 'includes/adds/google_advertise.inc';
-				?>
 
 <h2 id="top">Open Source Software for Business</h2>
 <ul>

@@ -20,7 +20,6 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
 <br>
 <h2>Categories</h2>
 
-
 <ul>
 <li><a href="#dns">DNS</a></li>
 <li><a href="#backup">Backup - Archiving</a></li>

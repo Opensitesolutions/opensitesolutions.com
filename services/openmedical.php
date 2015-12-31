@@ -17,11 +17,7 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
                 <div id="primaryContentContainer">
                         <div id="primaryContent">
                                 <h2 id="top">Medical Billing Software</h2>
-				<?php
-					include 'includes/adds/google_advertise.inc';
-				?>
-
-<br><br>
+<br>
 <h5 id="prog">Medical Practice Management Software</h5>
 <p class="post align-right">
         <ul>
