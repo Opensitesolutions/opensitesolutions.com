@@ -35,9 +35,7 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
 <p class="post align-right">
         <ul>
         <b>Open Source Solution</b>
-	<li><a href="http://www.moregroupware.de/" target="_blank" name=net0">More Groupware</a> is a open source web based groupware application with features like webmail, full featured calendar, todo list management, project management, news and supports multiple languages</li><br>
 	<li><a href="http://www.simple-groupware.de/cms/" target="_blank" name="net1">Simple Groupware</a> is an open source enterprise application offering email, calendaring, contacts, tasks, document management, synchronization with Outlook and cell phones, full-text search and many more.  Simple Groupware combines standards like RSS, iCalendar, vCard, IMAP, POP3, SMTP, CIFS, CSV, WebDAV, LDAP and SyncML under one platformm making this application a very strong contender to replace windows exchange server.<a href="http://www.simple-groupware.de/cms/Main/Features">features</a>. Simple Groupware can be installed on Windows, MACOS and Linux operating systems.</li><br>
-        <li><a href="http://www.zimbra.com" class="readmore" target="_blank" name="net2">Zimbra</a> Integrated email, calendar, documents, voip server with an AJAX based client. Server is compatible with Microsoft Outlook, Apple and Linux Desktops. This open source software application even offers "Over the Air" sync to mobile devices. View <a href="http://www.zimbra.com/demos/zimbra_overview.html">demo</a></li><br>
 	<li><a href="http://www.conflux.ee/?id=11" target="_blank" name="net4">Conflux Lite</a> is an open-source groupware package distributed under the GNU GPL licence. Although the Lite version offers less functionality then Professional, it still includes all the core functionality, which should meet the needs of small companies.  In case the client's needs increase and exceed those offered by Lite, the Conflux Lite server can easily and quickly be reconfigured into the Professional version, which offers extended functionality. The data already entered in the system will be all transferred to the new version.</li><br>
 	<li><a href="http://www.egroupware.org" target="_blank" name="net5">E-groupware</a> is an open source enterprise ready groupware application. It enables you to manage contacts, appointments, notes, todos and so on. E-groupware comes with a native web-interface which allow to access your data from any platform from any location</li><br>
 	<li><a href="http://www.group-office.com" target="_blank" name="net6">Group-office</a> is an open-source groupware application that includes email, calendar, task, notes </li><br>
@@ -110,29 +108,20 @@ x;">Your Ad Here</a></div>
 <p class="post align-right">
                 <ul>
                 <b>Open Source Solution</b>
-                <li><a href="http://www.nasbackup.com/wiki/Introduction name="net10"" target="_blank">NasBackup</a> is an open source alternative backup solution. It is a high-performance, en
-terprise-grade system for backing up MS Windows desktop PCs, laptops and servers to network disks. NasBackup is a highly configurable solution and easy to install
- and maintain.</li><br>
-
-                <li><a href="http://amanda.zmanda.com/" name="net11" target="_blank">Amanda</a> Amanda is the most popular open source alternative backup and recovery software in the world. A manda protects more than half a million of servers and desktops running various versions of Linux, UNIX, BSD, Mac OS-X and Microsoft Windows operating systems worldwide
+                 <li><a href="http://amanda.zmanda.com/" name="net11" target="_blank">Amanda</a> Amanda is the most popular open source alternative backup and recovery software in the world. A manda protects more than half a million of servers and desktops running various versions of Linux, UNIX, BSD, Mac OS-X and Microsoft Windows operating systems worldwide
 	<ul>
 	<li><a href="http://www.tivano.com/software/amanda/index.shtml" target="_blank">Amanada CDRW-Taper</a> is a drop-in replacement for the taper component of the Amanda backup system. CDRW-Taper makes it possible to dump backups to CD-RW, DVD+RW or DVD-RW instead of tape.</li>
 	</ul>
 .</li>
 		
-<a href="http://www.mozy.com/home?ref=3f9a896b&kbid=39179&m=13&i=74"><img border="0" src="http://affiliates.mozy.com/b.aspx?id=39179&mm=13&img=Mozy-should-be-728x90.gif"/></a>
 <br>
 
-
-	<li><a href="http://backuppc.sourceforge.net/index.html">BackupPC</a>  is a high-performance, enterprise-grade system for backing up Linux and WinXX PCs and laptops to a server's disk. BackupPC is highly configurable and easy to install and maintain. Given the ever decreasing cost of disks and raid systems, it is now practical and cost effective to backup a large number of machines onto a server's local disk or network storage. This is what BackupPC does. For some sites, this might be the complete backup solution. For other sites, additional permanent archives could be created by periodically backing up the server to tape. A variety of Open Source systems are available for doing backup to tape.<br> BackupPC is written in Perl and extracts backup data via SMB using Samba, tar over ssh/rsh/nfs, or rsync</li><br><br>
+	<li><a href="http://backuppc.sourceforge.net/index.html" target="_blank">BackupPC</a>  is a high-performance, enterprise-grade system for backing up Linux and WinXX PCs and laptops to a server's disk. BackupPC is highly configurable and easy to install and maintain. Given the ever decreasing cost of disks and raid systems, it is now practical and cost effective to backup a large number of machines onto a server's local disk or network storage. This is what BackupPC does. For some sites, this might be the complete backup solution. For other sites, additional permanent archives could be created by periodically backing up the server to tape. A variety of Open Source systems are available for doing backup to tape.<br> BackupPC is written in Perl and extracts backup data via SMB using Samba, tar over ssh/rsh/nfs, or rsync</li><br><br>
 
 	<li><a href="http://cdbkup.sourceforge.net/" target="_blank">CDBKUP</a> is a professional grade open source software for backing up filesystems onto CD-Rs or CD-RWs located within a tarballs on ISO 9660 file systems.</li><br>
 
-	<li><a href="http://www.computer42.org/sw-projects/c42Backup/" target="_blank">C42</a> backup suite is a simple python program for maintaining a central backup in a small, but distributed environment with a central file share. Basically it is a wrapper around the tar backup facility.</li><br>
-
 	<li><a href="http://cedar-backup.sourceforge.net/" target="_blank">Cedar Backup</a> is a software package designed to manage system backups for a pool of local and remote machines. Cedar Backup understands how to back up filesystem data as well as MySQL and PostgreSQL databases and Subversion repositories. It can also be easily extended to support other kinds of data sources.</li><br>
 
-	<li><a href="http://restore-backup.com/" target="_blank">RESTORE</a> is a free, open source, enterprise network backup and recovery solution for Windows, Novell, Mac OS X (data fork), Unix and Linux systems. RESTORE is scalable to a complete backup solution for multiple workstations, servers, and data centers. It operates over local area networks, wide area networks, and the Internet. RESTORE is a user friendly web-based backup system. With this open source restoration program you can backup files, folders or directories with a few easy steps. RESTORE offers many protocols and ways of accessing your data to both backup files from, or restore files to.</li><br>
 	<li><a href="http://snapbackup.com/" target="_blank">Snap Backup</a> is The One-Click open source Backup Utility that makes it simple to protect your important work. Snap Backup is for individual computer users who need a simple and convenient way to backup their valuable files.</li><br>
 
 	<li><a href="http://www.initzero.it/products/opensource/synbak/" target="_blank">Synbak</a> is an application designed to unify several backup methods. Synbak provides a powerful reporting system and a very simple interface for configuration files.<br>
@@ -162,14 +151,9 @@ Synbak can make reports using: email, html pages RSS feeds</li><br>
  udpcast, allows you can massively clone many (40 plus!) computers simultaneously. Clonezilla saves and restores only used blocks in the harddisk. This increases
 the clone effiency tools that work together <a href="http://drbl-winroll.sourceforge.net/">DRBL</a></li><br>
 
-	<li><a href="http://www.ferzkopp.net/joomla/content/view/12/14/" target="_blank">CloneIT</a> system was created to copy and essentially clone harddisks of identical PCs through a network. This is a common task when installing server racks or farms or update a computer-lab setup where one deals with identical machines. The system software consists of a Linux boot floppy and a ramdisk floppy with minimal system utilities that can perform the task of copying the complete content of disk devices through a network.<br>
-	The CloneIt software is not specific to any operating system, since the raw harddrive is beeing copied. The limitation for the use of CloneIt is, that the hardware used in the cloning procedure has to be identical. Cloneit is a good G4u open source alternative.</li><br>
+	   <li><a href="http://www.partimage.org/Main_Page" target="_blank">PartImage</a> is an open source cloning solutions based on linux, images can be compressed with gzip / bzip2 programs to save disk space and can be split into multiple files to be copied on CDs and DVDs. </li><br>
 
-        <li><a href="http://www.partimage.org/Main_Page" target="_blank">PartImage</a> is an open source cloning solutions based on linux, images can be compressed with gzip / bzip2 programs to save disk space and can be split into multiple files to be copied on CDs and DVDs. </li><br>
-
-        <li><a href="http://freeghost.no-ip.org/" target="_blank">FOG</a> is a open-source ghost-like imaging solution/rescue suite. A open source alternative to Ghost, used to image Windows XP, Vista PCs using PXE, PartImage, and a Web Gui to tie it together. Includes Featues like memory and disk test, disk wipe and (soon) av scan</li><br>
-
-	<li><a href="http://www.sysresccd.org/Main_Page" target="_blank">SysRescueCD</a> is a Linux system on a bootable CD-ROM for repairing your system and recovering your data after a crash. It aims to provide an easy way to carry out admin tasks on your computer, such as creating and editing the partitions of the hard disk. It contains a lot of system utilities (parted, partimage, fstools, ...) and basic tools (editors, midnight commander, network tools). It is very easy to use: just boot the CDROM. The kernel supports most of the important file systems (ext2/ext3, reiserfs, reiser4, xfs, jfs, vfat, ntfs, iso9660), as well as network filesystems (samba and nfs).</li><br>
+        <li><a href="http://www.sysresccd.org/Main_Page" target="_blank">SysRescueCD</a> is a Linux system on a bootable CD-ROM for repairing your system and recovering your data after a crash. It aims to provide an easy way to carry out admin tasks on your computer, such as creating and editing the partitions of the hard disk. It contains a lot of system utilities (parted, partimage, fstools, ...) and basic tools (editors, midnight commander, network tools). It is very easy to use: just boot the CDROM. The kernel supports most of the important file systems (ext2/ext3, reiserfs, reiser4, xfs, jfs, vfat, ntfs, iso9660), as well as network filesystems (samba and nfs).</li><br>
 	<a href="#top">Back to the top</a>
         </ul>
 </p>

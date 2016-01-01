@@ -31,17 +31,17 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
 <p class="post align-right">
         <ul>
         <b>Open Source Solutions</b>
-        <li><a href="http://www.funnymonkey.com/philosophy">DrupalED</a> Based on the popular Open Source Drupal SMS is a social platform geared towards teachers,
+        <li><a href="http://www.funnymonkey.com/philosophy" target="_blank">DrupalED</a> Based on the popular Open Source Drupal SMS is a social platform geared towards teachers,
  students and parents to help teachers easily distribute pertinent information</li><br>
-        <li><a href="http://www.claroline.net">Claroline</a> an Open Source eLearning and eWorking platform allowing teachers to build effective online courses to
+        <li><a href="http://www.claroline.net" target="_blank">Claroline</a> an Open Source eLearning and eWorking platform allowing teachers to build effective online courses to
  manage learning and collaborative activities on the web.</li><br>
-        <li><a href="http://moodle.org">Moodle</a> is a course management system (CMS) - a free, Open Source package designed to help educators create effective o
+        <li><a href="http://moodle.org" target="_blank">Moodle</a> is a course management system (CMS) - a free, Open Source package designed to help educators create effective o
 nline learning communities.</li><br>
-        <li><a href="http://www.dokeos.com/">Dokeos</a> is a learning suite that allows you create, organise, follow and coach learning activities</a></li><br>
-        <li><a href="http://www.docebo.org/doceboCms/">Docebo</a> an Open Source e-Learning platform (LMS and LCMS)</li><br>
-        <li><a href="http://sakaiproject.org/">Sakai</a> is an online Collaboration and Learning Environment,support for portfolios and research collaboration</li
+        <li><a href="http://www.dokeos.com/" target="_blank">Dokeos</a> is a learning suite that allows you create, organise, follow and coach learning activities</a></li><br>
+        <li><a href="http://www.docebo.org/doceboCms/" target="_blnak">Docebo</a> an Open Source e-Learning platform (LMS and LCMS)</li><br>
+        <li><a href="http://sakaiproject.org/" target="blank">Sakai</a> is an online Collaboration and Learning Environment,support for portfolios and research collaboration</li
 ><br>
-        <li><a href="http://www.dspace.org/">DSPACE</a> an open source solution for accessing, managing and preserving scholarly works.DSpace captures your data i
+        <li><a href="http://www.dspace.org/" target="_blank">DSPACE</a> an open source solution for accessing, managing and preserving scholarly works.DSpace captures your data i
 n any format \x96 in text, video, audio, and data. It distributes it over the web. It indexes your work, so users can search and retrieve your items. It preserves
  your digital work over the long term. DSpace provides a way to manage your research materials and publications in a professionally maintained repository to give
 them greater visibility and accessibility over time.</li><br>
@@ -53,7 +53,7 @@ them greater visibility and accessibility over time.</li><br>
 <p class="post align-right">
         <ul>
         <b>Open Source Solutions</b>
-        <li><a href="http://www.asymptopia.org/index.php?topic=MultiplicationStatio">Multiplication Station</a> Multiplication Station 0.4.0 will teach your child
+        <li><a href="http://www.asymptopia.org/index.php?topic=MultiplicationStatio" target="_blank">Multiplication Station</a> Multiplication Station 0.4.0 will teach your child
  to add, subtract and multiply ... Guaranteed! The new administrator GUI simplifies configuration of number ranges and operators. The built-in data recorder funct
 ionality allows teachers (or parents) to track student progress and perform quantitative performance assessment. The built-in countdown timer discourages laziness
 . The high-score display encourages friendly competition among students.</li><br>
@@ -65,7 +65,7 @@ ionality allows teachers (or parents) to track student progress and perform quan
 <p class="post align-right">
         <ul>
         <b>Open Source Solutions</b>
-        <li><a href="http://sourceforge.net/projects/pscafe/">PSCafePOS</a> is a open source POS (Point of Sale) designed for a school cafeteria or lunchroom, it
+        <li><a href="http://sourceforge.net/projects/pscafe/" target="_blank">PSCafePOS</a> is a open source POS (Point of Sale) designed for a school cafeteria or lunchroom, it
 integrates with nearly any Student Information System including PowerSchool 5.0 and Pentamation. It takes into account free and reduced lunches and student credit
 .</li><br>
 	<a href="#top">Top</a>
@@ -76,7 +76,7 @@ integrates with nearly any Student Information System including PowerSchool 5.0 
 <p class="post align-right">
         <ul>
         <b>Open Source Solutions</b>
-        <li><a href="http://liblime.com/products/koha">Koho</a> Classic sets the standard in open-source library automation. Integrated and web-based, Koha Classi
+        <li><a href="http://liblime.com/products/koha" target="_blank">Koho</a> Classic sets the standard in open-source library automation. Integrated and web-based, Koha Classi
 c is based on the mature Koha Version 2.2 code base in use in hundreds of libraries worldwide. It is a complete and cost-effective solution for small to mid-size
 libraries who want a friendly and intuitive web-based catalog with great self-service tools. Whether automating for the first time, or upgrading from a legacy sys
 tem, LibLime's outstanding service packages combine the security of vendor services with the innovation of open-source.</li><br>
