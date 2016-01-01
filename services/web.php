@@ -57,10 +57,10 @@ al thousand hits per second on a 300 MHz Pentium and dozens of hits per second o
         <b>Open Source Solutions</b>
         <li><a href="http://www.perl.org">Perl</a> is a stable, cross platform programming language. It is used for mission critical projects in the public and pr
 ivate sectors and is widely used to program web applications of all needs.</li><br>
-		<li><a href="www.python.org" target="_blank" target="_blank">Python</a> is a programming language that lets you work quickly and intergrate systems more effectively.
-        <li><a href="http://www.php.net/">PHP</a> PHP  is a widely-used general-purpose scripting language that is especially suited for Web development and can b
+		<li><a href="http://www.python.org" target="_blank" target="_blank">Python</a> is a programming language that lets you work quickly and intergrate systems more effectively.
+        <li><a href="http://www.php.net/" target-"_blank">PHP</a> PHP  is a widely-used general-purpose scripting language that is especially suited for Web development and can b
 e embedded into HTML.</li><br>
-        <li><a href="http://www.ruby.org">Ruby</a> A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant synt
+        <li><a href="http://www.ruby.org" target="_blank">Ruby</a> A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant synt
 ax that is natural to read and easy to write.</li><br>
 <a href="#top">Top</a>
         </ul>
