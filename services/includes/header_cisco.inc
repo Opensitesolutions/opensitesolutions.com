@@ -4,7 +4,7 @@
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <title>Open Source Alternative to Cisco</title>
 <meta name="keywords" content="open source alternative, network routing" />
-<meta name="description" content="opensitesolutions.com recommending open source web development solutions as an alternative to commercial software" />
+<meta name="description" content="opensitesolutions.com recommending open source alternative to cisco call manager" />
 <meta name="author" content="Webmaster">
 <META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
 <link href="/style.css" rel="stylesheet" type="text/css" />
