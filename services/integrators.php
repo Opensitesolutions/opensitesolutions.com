@@ -129,7 +129,6 @@ Featured Services:
 <li> Premium Hosting available.</li>
 </ul>
 <script language="javascript" src="http://showmypc.com/scripts/external1.js"></script><br><br>
-        <li><a href="http://www.dimdim.com">DIMDIM</a> is the worlds first free web meeting service based on the open source platform. dimdim is a browser-based web 2.0 service that allows anybody to share their desktop, show slides, as well as talk, listen, chat, and broadcast via webcam. dimdim\xb4s hosted service is available for free and can be easily used for small gatherings, to seminars with hundreds of attendees. With absolutely no software to download for attendees, dimdim gives everyone the opportunity to hold Web meetings and to customize and brand these meetings.</li><br>
 
 <a href="#top">Top</a>
 </ul>
@@ -140,15 +139,15 @@ Featured Services:
 <p class="post align-right">
         <ul>
         <b>Open Source Solution</b>
-	<li><a href="http://openid.net/ target="_blank"">OpenID</a> 
+	<li><a href="http://openid.net/ target="_blank"">OpenID</a>
 	OpenID eliminates the need for multiple usernames across different websites, simplifying your online experience. You get to choose the OpenID Provider that best 		meets your needs and most importantly that you trust. At the same time, your OpenID can stay with you, no matter which Provider you move to. And best of all, the O		penID technology is not proprietary and is completely free.</p>
-	<p>For businesses, this means a lower cost of password and account management, while drawing new web traffic. OpenID lowers user frustration by letting users have 
-	control of their login.  For geeks, OpenID is an open, decentralized, free framework for user-centric digital identity. OpenID takes advantage of already existing 
+	<p>For businesses, this means a lower cost of password and account management, while drawing new web traffic. OpenID lowers user frustration by letting users have
+	control of their login.  For geeks, OpenID is an open, decentralized, free framework for user-centric digital identity. OpenID takes advantage of already existing
 	internet technology (URI, HTTP, SSL, Diffie-Hellman) and realizes that people are already creating identities for themselves whether it be at their blog,
-	 photostream, profile page, etc. With OpenID you can easily transform one of these existing URIs into an account which can be used at sites which support OpenID 
+	 photostream, profile page, etc. With OpenID you can easily transform one of these existing URIs into an account which can be used at sites which support OpenID
 	logins.<\p>
 
-	<p>OpenID is still in the adoption phase and is becoming more and more popular, as large organizations like AOL, Microsoft, Sun, Novell, etc. begin to accept and 
+	<p>OpenID is still in the adoption phase and is becoming more and more popular, as large organizations like AOL, Microsoft, Sun, Novell, etc. begin to accept and
 	provide OpenIDs. Today it is estimated that there are over 160-million OpenID enabled URIs with nearly ten-thousand sites supporting OpenID logins.</p>
 	<h5>Who Owns or Controls OpenID?</h5>
 
