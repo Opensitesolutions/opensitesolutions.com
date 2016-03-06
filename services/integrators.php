@@ -32,7 +32,7 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
 
 <h5 id="dns">DNS Integrators</h5>
 
-<li><a href="http://www.opennicproject.org/" target="_blank">OpenNIC</a> stands for <b>Open Network Information Center</b>. The OpenNIC project is a major part of the global network of autonomous user controlled DNS servers working in a co-operative effort to provide a non-national, alternative Domain Name System that encompasses and expands upon the legacy Domain Name System.
+<li><a href="http://www.opennicproject.org/" target="_window">OpenNIC</a> stands for <b>Open Network Information Center</b>. The OpenNIC project is a major part of the global network of autonomous user controlled DNS servers working in a co-operative effort to provide a non-national, alternative Domain Name System that encompasses and expands upon the legacy Domain Name System.
 <ul>
 <li>Alternative Top Level Domain (alt-TLD) Sponsorship;></li>
 <li> Domain name resolution for OpenNIC sponsored alt-TLDs (i.e. .free, .geek, .oss, etc..);</li>
@@ -43,7 +43,7 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
 <li> And last but not least, reliable and secure domain name resolution of all legacy Top Level Domains (i.e. .com, .net, .org, .edu, etc..)</li>
 </ul>
 
-<li><a href="http://www.granitecanyon.com/" target="_blank">Granite Canyon</a> The Public DNS Service is a public service provided by Granite Canyon Group, LLC. The Service offers both primary and secondary DNS free of charge to anyone who asks. The Service maintains UPS protected FreeBSD servers that satisfy DNS queries. The servers are geographically separated and all are connected to the Internet via 7x24 dedicated lines with disjoint routes to the Internet's North American backbones.</li>
+<li><a href="http://www.granitecanyon.com/" target="_window">Granite Canyon</a> The Public DNS Service is a public service provided by Granite Canyon Group, LLC. The Service offers both primary and secondary DNS free of charge to anyone who asks. The Service maintains UPS protected FreeBSD servers that satisfy DNS queries. The servers are geographically separated and all are connected to the Internet via 7x24 dedicated lines with disjoint routes to the Internet's North American backbones.</li>
 <ul>
 <li> Can't get free service from an ISP and don't want to do it yourself</li>
 <li> Need secondary DNS servers</li>
@@ -62,7 +62,7 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
 <p class="post align-right">
         <ul>
         <b>Open Source Solution</b>
-        <li><a href="http://www.rsync.net/">RSYNC.NET</a> Business continuity and disaster recovery built on open source standards and common sense, simple backup
+        <li><a href="http://www.rsync.net/" target="_window">RSYNC.NET</a> Business continuity and disaster recovery built on open source standards and common sense, simple backup
 /restore for Windows/Mac/Unix servers and clients. RSYNC.NET uses opens source tools
         <ul>
         <li> Rsync</li>
@@ -90,7 +90,7 @@ dundant sites offering even more reliability and redundancy. This company truly 
 <p class="post align-right">
         <ul>
         <b>Open Source Solution</b>
-        <li><a href="http://showmypc.com/index.html"> ShowMyPC</a>
+        <li><a href="http://showmypc.com/index.html" target="_window"> ShowMyPC</a>
         <p>ShowMyPC is a Community for Online Collaboration. Providing tools for Instant Collaboration to Service Providers and Users. Tools provided are meant fo
 r Desktop Sharing and Remote PC access, as free community alternatives to WebEx or Gotomypc.
 
@@ -114,7 +114,7 @@ Featured Services:
 <p class="post align-right">
         <ul>
         <b>Open Source Solution</b>
-	<li><a href="http://openid.net/ target="_blank"">OpenID</a>
+	<li><a href="http://openid.net/ target="_window">OpenID</a>
 	OpenID eliminates the need for multiple usernames across different websites, simplifying your online experience. You get to choose the OpenID Provider that best 		meets your needs and most importantly that you trust. At the same time, your OpenID can stay with you, no matter which Provider you move to. And best of all, the O		penID technology is not proprietary and is completely free.</p>
 	<p>For businesses, this means a lower cost of password and account management, while drawing new web traffic. OpenID lowers user frustration by letting users have
 	control of their login.  For geeks, OpenID is an open, decentralized, free framework for user-centric digital identity. OpenID takes advantage of already existing
