@@ -1,5 +1,5 @@
 <div id="header">
-                <a href="#"><img src="https://s3.eu-central-1.amazonaws.com/opensitesolutionwebimages/Final-Logo+copy.png"></a>
+                <a href="#"><img src="images/logo.png"></a>
         </div>
         <div id="menu">
                 <ul>
