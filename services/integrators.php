@@ -114,7 +114,7 @@ Featured Services:
 <p class="post align-right">
         <ul>
         <b>Open Source Solution</b>
-	<li><a href="http://openid.net/ target="_window">OpenID</a>
+	<li><a href="http://openid.net/" target="_window">OpenID</a>
 	OpenID eliminates the need for multiple usernames across different websites, simplifying your online experience. You get to choose the OpenID Provider that best 		meets your needs and most importantly that you trust. At the same time, your OpenID can stay with you, no matter which Provider you move to. And best of all, the O		penID technology is not proprietary and is completely free.</p>
 	<p>For businesses, this means a lower cost of password and account management, while drawing new web traffic. OpenID lowers user frustration by letting users have
 	control of their login.  For geeks, OpenID is an open, decentralized, free framework for user-centric digital identity. OpenID takes advantage of already existing
