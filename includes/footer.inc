@@ -11,7 +11,7 @@
         <div id="footer">
 
 	<center>
-	
+
 
         </center>
 
@@ -21,7 +21,7 @@
         <!-- EndFooter -->
 
 	</div>
-	
+
 <!-- Non presentation code -->
 
 <!-- Piwik Tracking Code -->
@@ -41,6 +41,17 @@
 </script>
 <noscript><p><img src="//analytics.opensitesolutions.com/piwik/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
 <!-- End Piwik Code -->
+
+<!-- Start Piwik Click map -->
+<script type="text/javascript" src="http://analytics.opensitesolutions.com/piwik/plugins/ClickHeat/libs/js/clickheat.js"></script>
+<noscript><p><a href="http://www.dugwood.com/index.html">Open Source Sofware</a></p></noscript>
+<script type="text/javascript"><!--
+clickHeatSite = 2;
+clickHeatGroup = 'opensitesolutions';
+clickHeatServer = 'http://analytics.opensitesolutions.com/piwik/plugins/ClickHeat/libs/click.php';
+initClickHeat(); //-->
+</script>
+<!-- End Piwik Click map -->
 
 <!-- Start Google Analytics -->
 <script>
