@@ -31,28 +31,6 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
 <h2>Open Source Alternative Solutions</h2>
 
 <h5 id="dns">DNS Integrators</h5>
-<p class="post align-right">
-<ul>
-<b>Open Source Solution</b>
-<li><a href="http://www.opendns.com"> <a href="http://kowabunga-cnet.com.com/2001-3121_9-0.html?tag=sh.glnav&kbid=1805&m=27&i=4"><img border="0" src="http://kowabunga.com.com/b.aspx?i
-d=1805&mm=27&img=notebooks_125x125.gif"/ align="left"></a>OPENDNS</a> was founded in late 2005 by DNS expert and entrepreneur David Ulevitch. With its team of the brightest and most creative minds in the industry. OpenDNS is the world's largest, fastest-growing DNS service provider. More than 1 million people worldwide (and growing) trust opendns to handle their DNS and Web-content filtering needs. OpenDNS is the world's most intelligent DNS service. With their global network and software work together symbiotically to offer a set of features custom-tailored for you, without requiring any new hardware or installing any software.
-<br><br>
-OPENDNS using open source software provides the following features free of charge
-<ul>
-<li>Phishing protection</li>
-<li>Domain Blocking </li>
-<li>Adult Site Blocking</li>
-<li>Web Proxy Blocking</li>
-<li>Domain Whitelisting</li>
-<li>Large Cache - faster web browsing</li>
-<li>OpenDNS Guide</li>
-<li>Typo Correction</li>
-<li>Statistics for your network</li>
-</ul>
-
-OPenDNS allow you to easily make use of the above feature just by making two configuration changes on your current network gateway. This makes this service easy t
-o use and feature rich
-</li><br>
 
 <li><a href="http://www.opennicproject.org/" target="_blank">OpenNIC</a> stands for <b>Open Network Information Center</b>. The OpenNIC project is a major part of the global network of autonomous user controlled DNS servers working in a co-operative effort to provide a non-national, alternative Domain Name System that encompasses and expands upon the legacy Domain Name System.
 <ul>
