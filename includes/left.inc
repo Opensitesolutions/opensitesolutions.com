@@ -60,8 +60,9 @@
       }
 
        DisplayTopKeywords();
+       ?>
       <!-- End Top keyword search -->
-      
+
                         <div class="xbg"></div>
                 </div>
                 <div class="clear"></div>
