@@ -19,18 +19,51 @@
         			<li><a href="/services/integrators.php" title="Open Source alternative Integrators">Open Source Integrators</a></li>
         			<li><a href="/services/dnstools.php" title="Open Source alternative Tools">Online DNS Tools</a></li>
                         </ul>
-						
+
 						<ul>
 						<li><a href="/services/docs/">Articles</a>
 						</ul>
-				
+
 			<?php
  			       include 'includes/adds/google_adsense_small_square_left.inc';
 			?>
 
+      <!--- Top kewords search analytics -->
+      <?php
+
+      // This function will call the API to get best keyword for current URL.
+      // Then it writes the list of best keywords in a HTML list
+      function DisplayTopKeywords($url = "")
+      {
+      	// Do not spend more than 1 second fetching the data
+      	@ini_set("default_socket_timeout", $timeout = 1);
+      	// Get the Keywords data
+      	$url = empty($url) ? "http://". $_SERVER["HTTP_HOST"] . $_SERVER["REQUEST_URI"] : $url;
+      	$api = "http://analytics.opensitesolutions.com/piwik/?module=API&method=Referrers.getKeywordsForPageUrl&format=json&filter_limit=10&token_auth=ec04b7884538cad79bb4d8c7dfedfd79&date=previous1&period=week&idSite=1&url=" . urlencode($url);
+      	$keywords = @json_decode(file_get_contents($api), $assoc = true);
+      	Common::sendHeader('Content-Type: text/html; charset=utf-8', true);
+      	if ($keywords === false || isset($keywords["result"])) {
+      		// DEBUG ONLY: uncomment for troubleshooting an empty output (the URL output reveals the token_auth)
+      		// echo "Error while fetching the <a href='$api'>Top Keywords from Piwik</a>";
+      		return;
+      	}
+
+      	// Display the list in HTML
+      	$url = htmlspecialchars($url, ENT_QUOTES);
+      	$output = "<h2>Top Keywords for <a href='$url'>$url</a></h2><ul>";
+      	foreach($keywords as $keyword) {
+      		$output .= "<li>". $keyword . "</li>";
+      	}
+      	if (empty($keywords)) { $output .= "Nothing yet..."; }
+      	$output .= "</ul>";
+      	echo $output;
+      }
+
+       DisplayTopKeywords();
+      <!-- End Top keyword search -->
+      
                         <div class="xbg"></div>
                 </div>
                 <div class="clear"></div>
         </div>
         <!-- End Left Column -->
-
