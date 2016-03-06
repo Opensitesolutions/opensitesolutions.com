@@ -104,7 +104,6 @@ Featured Services:
 <li> Use your private middle SSH server.</li>
 <li> Premium Hosting available.</li>
 </ul>
-<script language="javascript" src="http://showmypc.com/scripts/external1.js"></script><br><br>
 
 <a href="#top">Top</a>
 </ul>
