@@ -1,23 +1,23 @@
 <?php
-set_include_path ("/var/www/html/opensitesolutions.com/");
+  set_include_path('includes:../includes');
 ?>
 
 <?php
-    include 'services/includes/header_bus.inc';
+    include 'header_bus.inc';
 ?>
 
 <?php
-    include 'includes/topmenu.inc';
+    include 'topmenu.inc';
 ?>
 
 <?php
-    include 'includes/right.inc';
+    include 'right.inc';
 ?>
 
 <!-- Center Column -->
                 <div id="primaryContentContainer">
                         <div id="primaryContent">
-                                <h2 id="top">Open Source Solutions for Business</h2>				
+                                <h2 id="top">Open Source Solutions for Business</h2>
 <br>
 <h2>Categories</h2>
 <ul>
@@ -139,10 +139,10 @@ ting.<li><br>
 
 
 <?php
-    include 'includes/left.inc';
+    include 'left.inc';
 ?>
 
 
 <?php
-    include 'includes/footer.inc';
+    include 'footer.inc';
 ?>
