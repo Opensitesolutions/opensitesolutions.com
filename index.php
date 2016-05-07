@@ -1,13 +1,17 @@
 <?php
-    include 'includes/header.inc';
+  set_include_path('includes:../includes');
 ?>
 
 <?php
-    include 'includes/topmenu.inc';
+    include 'header.inc';
 ?>
 
 <?php
-    include 'includes/right.inc';
+    include 'topmenu.inc';
+?>
+
+<?php
+    include 'right.inc';
 ?>
 
 <!-- Center Column -->
@@ -61,10 +65,10 @@ ete working model of a Windows\xae like operating system available.</li><br>
 
 
 <?php
-    include 'includes/left.inc';
+    include 'left.inc';
 ?>
 
 
 <?php
-    include 'includes/footer.inc';
+    include 'footer.inc';
 ?>
