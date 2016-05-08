@@ -1,16 +1,16 @@
 <?php
-set_include_path ("/var/www/html/opensitesolutions.com/");
+  set_include_path('includes:../../includes:../includes');
 ?>
 
 <?php
-    include 'includes/header.inc';
+    include 'header.inc';
 ?>
 <?php
-    include 'includes/topmenu.inc';
+    include 'topmenu.inc';
 ?>
 
 <?php
-    include 'includes/right.inc';
+    include 'right.inc';
 ?>
 
 <!-- Center Column -->
@@ -22,33 +22,33 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
 					Modules are usually built to solve a certain problem or to provide a missing functionality. This open source
 					application comes with prebuilt modules which can be reviewed from the apache website. If you wish to search for all modules 				 whether from the 1.x branch or 2.x branch
 					this <a href="http://modules.apache.org/search" target="_blank">site</a> offers a search facility which displays all registered modules. </p>
-				
+
 				<h3 id="sect2">Security</h3>
-				<p> Providing security for the servers and web applications that provide internet users with the flexibility and ease of use that they have come to depend on when doing internet banking or online shopping from 
-					spammers and hackers who are always looking to find ways to exploit these interfaces for there own benefit and creating ways for them to either 
+				<p> Providing security for the servers and web applications that provide internet users with the flexibility and ease of use that they have come to depend on when doing internet banking or online shopping from
+					spammers and hackers who are always looking to find ways to exploit these interfaces for there own benefit and creating ways for them to either
 					steal your money or worse your identity. Apache modules that can address these security issues are.
 						<ul>
 						<li><a href="http://www.modsecurity.org" target="_blank">Mod_Security</a> is an open source tool used to provide application level filtering.</li>
 						<li><a href="http://www.zdziarski.com/projects/mod_evasive/" target="_blank">Mod_evasive</a> is an open source tool that prevents denial 					of service attacks against the server.</li>
 						<li><a href="http://dominia.org/djao/limitipconn.html" target="_blank">limitipconn</a> is another open source tool tha provides bandwith				  and denial of service attacks.</li>
 						</ul>
-					
+
 					<h3>Mod Security</h3>
-					
-					<p>Mod Securiy can monitor HTTP traffic in real time in order to detect attacks, thus acting as an application level firewall and 
+
+					<p>Mod Securiy can monitor HTTP traffic in real time in order to detect attacks, thus acting as an application level firewall and
 					intrusion prevention for web applications.</p>
 					<p>Mod Security has three different models for preventing attacks:
 						<ul>
 						<li><b>Negative Security model:</b> monitors requests for anomalies, unusual behaviour and common web applications attacks.
 						 It keeps anomally scores for each requests, IP adresses, application sesseions and user accounts. Reuests with
 						with high anomally scores are wither logged or rejected altoghether.</li>
-						<li><b>Known weaknesses and vulnerability:</b> applications can be patched externally using mod_security as the front end without touching 
+						<li><b>Known weaknesses and vulnerability:</b> applications can be patched externally using mod_security as the front end without touching
 						the application source code, this utimately makes your application that much more security.</li>
 						<li><b>Positive security model:</b> only requests that are known to be valid are accepted, everything else is rejected.</li>
 						</ul>
-						
+
 						<h3>Deploying Mod Security</h3>
-						<p>Mod Security can be deployed either <b>embedded</b> within apache or deployed on the <b>network</b> within apache in 
+						<p>Mod Security can be deployed either <b>embedded</b> within apache or deployed on the <b>network</b> within apache in
 						front of all web based applications acting as a web filtering proxy, this has the added benefit of protecting non apache based web						servers as well.</p>
 						<p>Mod Security works on a wide range of operating systems.
 						<ul>
@@ -62,15 +62,15 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
 						<li>Mac OS</li>
 						<li>Windows</li>
 						</ul>
-						
+
 						<h3>Mod Security Configuration</h3>
-						
+
 						<p> Mod Security whether embedded or deployed on the network relies on a configuration file. This configuration file can de lengthy and
-						needs to be reviewed before deploying. <b>Mod Security configuration manual</b> can be reviewed from this <a href="http://www.modsecurity.org/documentation/index.html" target="_blank">link</a>. 
-						
+						needs to be reviewed before deploying. <b>Mod Security configuration manual</b> can be reviewed from this <a href="http://www.modsecurity.org/documentation/index.html" target="_blank">link</a>.
+
 						<p>The following configuration file can be used as a starting point for deploying this open source tool</p>
 						<code>
-						
+
 						<IfModule mod_security.c><br>
 						#Enable Mod_security<br>
 						SecFilterEngine On<Br><br>
@@ -118,12 +118,12 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
 						SecFilterSelective ARG_highlight %27<br><br>
 
 						</IfModule><br><br>
-						
+
 						</code>
-					
+
 					<h3>Mod Evasive</h3>
-					<p>Webmasters have not had the opportunity to stop denial of service attacks on their webserver, blindly beleiving that the network 
-					firewall is offering this protection. Most perimeter firewalls don't protect against attacks of requesting one or more pages in rapid 
+					<p>Webmasters have not had the opportunity to stop denial of service attacks on their webserver, blindly beleiving that the network
+					firewall is offering this protection. Most perimeter firewalls don't protect against attacks of requesting one or more pages in rapid
 					succession eventually overloading and bringing the server to it knees (DOS). Mod Evasive and it's old version mod_dosevasive offers real time
 					denial of service protection.</p>
 					<p>Mod Evasive is configured from a config file once the module is loaded into apache and it's configuration file.</p>
@@ -139,6 +139,7 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
 						DOSLogDir           "/var/lock/mod_dosevasive"<br>
 					&lt;/IfModule&gt;<br>
 					</code><br>
+
 					<p>If you are running apache 2.x the code above can be placed within a file located within your apache config located within the "Includes"
 					directory</P>
 					<p>As attacks are blocked you can observe what IP'tried to attack your server, heres an example of the log directory</p>
@@ -173,7 +174,7 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
 					-rw-r--r--  1 www   wheel     6 Feb  4 22:57 dos-99.243.238.139<br>
 					</code><br>
 					<p>IP addresses are blocked for a beginning of 10 minutes and increased expontially if the attack continues.</p>
-					
+
 					<h3>Mod_limitipconn</h3>
 					 <p>coming soon</p>
 
@@ -183,10 +184,10 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
 
 
 <?php
-    include 'includes/left.inc';
+    include 'left.inc';
 ?>
 
 
 <?php
-    include 'includes/footer.inc';
+    include 'footer.inc';
 ?>

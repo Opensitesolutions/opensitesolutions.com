@@ -1,23 +1,23 @@
 <?php
-set_include_path ("/var/www/html/opensitesolutions.com/");
+  set_include_path('includes:../../includes:../includes');
 ?>
 
 <?php
-    include 'services/includes/header_com.inc';
+    include 'header_com.inc';
 ?>
 <?php
-    include 'includes/topmenu.inc';
+    include 'topmenu.inc';
 ?>
 
 <?php
-    include 'includes/right.inc';
+    include 'right.inc';
 ?>
 
 <!-- Center Column -->
                 <div id="primaryContentContainer">
                         <div id="primaryContent">
                                 <h2 id="top">Internet Communication</h2>
-				
+
 <br>
 <h2>Categories</h2>
 <ul>
@@ -41,7 +41,7 @@ dy goes away, signs online, or returns from idle; and plugins, consisting of tex
 ll checking, tabbed conversations, and more.</li><br>
 	<a href="#top">Top</a>
         </ul>
-</p>	
+</p>
 
 <h5 id="media">Media Players</h5>
 <p class="post align-right">
@@ -68,7 +68,7 @@ e is designed for maximum flexibility and supports Voice over IP in many protoco
 	   <p>We also support both wide and narrow band codecs making it an ideal solution to bridge legacy devices to the future. The voice channels and the conference bridge module all can operate at 8, 16 or 32 kilohertz and can bridge channels of different rates.</p>
 	    <p>	FreeSWITCH runs on several operating systems including Windows, Max OS X, Linux, BSD and Solaris on both 32 and 64 bit platforms.</p>
 	<br>
-	<li><a href="http://yate.null.ro" target="_blank">Yate</a> Yet another Telephony Engine. Yate s a next-generation telephony engine; while currently focused on Voice over Internet Protocol (VoIP) and PSTN, its power lies in its ability to be easily extended. Voice, video, data and instant messaging can all be unified under Yate's flexible routing engine, maximizing communications efficiency and minimizing infrastructure costs for businesses. The software is written in C++ and it supports scripting in various programming languages (such as those supported by the currently implemented embedded PHP, Python and Perl interpreters) and even any Unix shell. The PHP, Python and Perl libraries have been developed and made available in order to ease development of external functionalities for Yate.</li><br> 
+	<li><a href="http://yate.null.ro" target="_blank">Yate</a> Yet another Telephony Engine. Yate s a next-generation telephony engine; while currently focused on Voice over Internet Protocol (VoIP) and PSTN, its power lies in its ability to be easily extended. Voice, video, data and instant messaging can all be unified under Yate's flexible routing engine, maximizing communications efficiency and minimizing infrastructure costs for businesses. The software is written in C++ and it supports scripting in various programming languages (such as those supported by the currently implemented embedded PHP, Python and Perl interpreters) and even any Unix shell. The PHP, Python and Perl libraries have been developed and made available in order to ease development of external functionalities for Yate.</li><br>
 	<a href="#top">Top</a>
 </ul>
 </p>
@@ -79,10 +79,10 @@ e is designed for maximum flexibility and supports Voice over IP in many protoco
 
 
 <?php
-    include 'includes/left.inc';
+    include 'left.inc';
 ?>
 
 
 <?php
-    include 'includes/footer.inc';
+    include 'footer.inc';
 ?>

@@ -1,16 +1,16 @@
 <?php
-set_include_path ("/var/www/html/opensitesolutions.com/");
+  set_include_path('includes:../../includes:../includes');
 ?>
 
 <?php
-    include 'services/includes/header_priv.inc';
+    include 'header_priv.inc';
 ?>
 <?php
-    include 'includes/topmenu.inc';
+    include 'topmenu.inc';
 ?>
 
 <?php
-    include 'includes/right.inc';
+    include 'right.inc';
 ?>
 
 <!-- Center Column -->
@@ -59,7 +59,7 @@ cess modules for all kind of public key directories.</li><br>
  <li><a href="http://www.truecrypt.org" target="_blank"> Truecrypt</a> open-source disk encryption software for Windows Vista/XP/2000 and Linux, Provides two levels of plausible deniability, in case an adversary forces you to reveal the password.</li><br>
 	<a href="#top">Top</a>
         </ul>
-</p>	
+</p>
 
 <h5 id="malware">Personal Security - Malware - Trojan</h5>
 <p class="post align-right">
@@ -92,10 +92,10 @@ T, 2000, XP, Windows 2003 Server and DOS.</li><br>
 
 
 <?php
-    include 'includes/left.inc';
+    include 'left.inc';
 ?>
 
 
 <?php
-    include 'includes/footer.inc';
+    include 'footer.inc';
 ?>

@@ -1,9 +1,4 @@
 <center>
-<!-- Start Bluehost advertising -->
-<a href="//www.bluehost.com/track/cmills/bottom-link" target="_blank">
-<img border="0" src="//bluehost-cdn.com/media/partner/images/cmills/760x80/bh-ppc-banners-dynamic-760x80.png">
-</a>
-<!-- End Start Bluehost advertising -->
 
 </center>
  <!-- Footer -->
@@ -16,7 +11,6 @@
         </center>
 
                 <p>Copyright &copy; 2006-2008 <a href="http://www.opensitesolutions.com" target="new_windo">www.opensitesolutions.com</a>. Designed by <a href="http://www.freecsstemplates.org">Free CSS Templates</a></p>
-		<img src="/images/get_apache_80x15_1.png"><img src="/images/powered_php_80x15.png">
         </div>
         <!-- EndFooter -->
 

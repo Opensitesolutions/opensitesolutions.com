@@ -1,23 +1,23 @@
 <?php
-set_include_path ("/var/www/html/opensitesolutions.com/");
+  set_include_path('includes:../../includes:../includes');
 ?>
 
 <?php
-    include 'services/includes/header_art.inc';
+    include 'header_art.inc';
 ?>
 <?php
-    include 'includes/topmenu.inc';
+    include 'topmenu.inc';
 ?>
 
 <?php
-    include 'includes/right.inc';
+    include 'right.inc';
 ?>
 
 <!-- Center Column -->
                 <div id="primaryContentContainer">
                         <div id="primaryContent">
                                 <h2>OpensiteSolutions Articles</h2>
-				
+
 				<h2>Articles</h2>
 				<ul>
 				<b>Web</b>
@@ -38,10 +38,10 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
 
 
 <?php
-    include 'includes/left.inc';
+    include 'left.inc';
 ?>
 
 
 <?php
-    include 'includes/footer.inc';
+    include 'footer.inc';
 ?>

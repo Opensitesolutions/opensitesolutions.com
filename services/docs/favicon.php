@@ -1,23 +1,23 @@
 <?php
-set_include_path ("/var/www/html/opensitesolutions.com/");
+  set_include_path('includes:../../includes:../includes');
 ?>
 
 <?php
-    include 'services/includes/header.inc';
+    include 'header.inc';
 ?>
 <?php
-    include 'includes/topmenu.inc';
+    include 'topmenu.inc';
 ?>
 
 <?php
-    include 'includes/right.inc';
+    include 'right.inc';
 ?>
 
 <!-- Center Column -->
                 <div id="primaryContentContainer">
                         <div id="primaryContent">
                                 <h2>Creating a Favourite Icon</h2>
-				
+
                 <p>
                 Every wonder how to make those favicon.ico images that appear besides your site name, or how to get rid of the <b>404</b> error messages "GET /favic
 on.ico HTTP/1.1" or [error] [client 192.168.1.] File does not exist in your error logs.
@@ -66,10 +66,10 @@ r><br>
 
 
 <?php
-    include 'includes/left.inc';
+    include 'left.inc';
 ?>
 
 
 <?php
-    include 'includes/footer.inc';
+    include 'footer.inc';
 ?>

@@ -1,16 +1,16 @@
 <?php
-set_include_path ("/var/www/html/opensitesolutions.com/");
+  set_include_path('includes:../../includes:../includes');
 ?>
 
 <?php
-    include 'services/includes/header_sys.inc';
+    include 'header_sys.inc';
 ?>
 <?php
-    include 'includes/topmenu.inc';
+    include 'topmenu.inc';
 ?>
 
 <?php
-    include 'includes/right.inc';
+    include 'right.inc';
 ?>
 
 <!-- Center Column -->
@@ -40,7 +40,7 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
                 the requirements of internal organizations.</li><br>
                 <li><a href="http://opensmart.sourceforge.net" target="_blank">OpenSmart</a> open (Source|System) Monitoring and Reporting Tool, open source alternative solutions to commercial software.</li><br>
                 <li><a href="http://pandora.sourceforge.net" target="_blank">PandoraFMS</a> could detect a network interface down, a defacement in your website, a memory leak in one of your server app, or the movement of any value of the NASDAQ new technology market. If you want, Pandora FMS could send out SMS message when your systems fails. PandoraDMS is a viable Open Source Solution to commercial software.</li><br>
-		
+
 		<li><a href="http://www.zenoss.com/" target="_blank">Zenoss</a>  Core is an open source IT monitoring product that delivers the functionality to effectively manage the configuration, health, performance of networks, servers and applications through a single, integrated software package.</li><br>
                 <li><a href="http://www.zabbix.com" target="_blank">Zabbix</a> is an enterprise-class open source distributed monitoring solution. ZABBIX is released under the GPL, thus it is free of charge for both commercial and non-commercial use.</li><br>
 				<a href="#top">Top</a>
@@ -71,10 +71,10 @@ All this information can be limited by network or sensor in order to provide jus
     	<li> Osiris, a great HIDS.</li>
     	<li> OCS-NG, Cross-Platform inventory solution.</li>
     	<li> OSSEC, integrity, rootkit, registry detection and more.</li>
-	</ul> 
+	</ul>
 </li>
 		<li><a href="http://www.ziptie.org/" target="_blank">Ziptie</a> is a community driven open source framework for network inventory and configuration management. Ziptie supports auto discovery and backup of netwrk device configuration</li><br>
-		
+
 <a href="#top">Top</a>
 </ul>
 </p>
@@ -85,10 +85,10 @@ All this information can be limited by network or sensor in order to provide jus
 
 
 <?php
-    include 'includes/left.inc';
+    include 'left.inc';
 ?>
 
 
 <?php
-    include 'includes/footer.inc';
+    include 'footer.inc';
 ?>

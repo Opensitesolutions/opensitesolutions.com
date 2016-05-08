@@ -1,16 +1,17 @@
 <?php
-set_include_path ("/var/www/html/opensitesolutions.com/");
+  set_include_path('includes:../../includes:../includes');
 ?>
 
 <?php
-    include 'includes/header.inc';
-?>
-<?php
-    include 'includes/topmenu.inc';
+    include 'header.inc';
 ?>
 
 <?php
-    include 'includes/right.inc';
+    include 'topmenu.inc';
+?>
+
+<?php
+    include 'right.inc';
 ?>
 
 <!-- Center Column -->
@@ -202,7 +203,7 @@ include         /usr/local/etc/openldap/schema/inetorgperson.schema
 pidfile         /var/run/openldap/slapd.pid
 argsfile        /var/run/openldap/slapd.args
 
-access to dn.base="" 
+access to dn.base=""
         by * read
 
 # Members of admin group can write to everything
@@ -247,8 +248,8 @@ TLSCertificateFile /usr/local/etc/openldap/ssl/ldap.cert
 TLSCertificateKeyFile /usr/local/etc/openldap/ssl/ldap.key
 
 database        ldbm
-suffix          "dc=yourdomain,dc=dom" 
-rootdn          "cn=Manager,dc=yourdomain,dc=dom" 
+suffix          "dc=yourdomain,dc=dom"
+rootdn          "cn=Manager,dc=yourdomain,dc=dom"
 rootpw          Encrypted_Password
 password-hash   {SMD5}
 directory       /var/db/openldap-data
@@ -289,7 +290,7 @@ index           uid,uidNumber,gidNumber,memberUid       pres,eq
 
 <pre>
 uri ldaps://127.0.0.1/
-base "dc=yourdomain,dc=dom" 
+base "dc=yourdomain,dc=dom"
 port 389
 binddn cn=pamclient,ou=SystemAccounts,dc=yourdomain,dc=dom
 bindpw SuperSecretPassword
@@ -414,8 +415,8 @@ memberuid: testuser
 
 
 <pre>
-slapd_enable="YES" 
-slapd_flags="-h 'ldap:/// ldaps:///'" 
+slapd_enable="YES"
+slapd_flags="-h 'ldap:/// ldaps:///'"
 </pre>
 
 	<p>Once again, if you are choosing not to use <span class="caps">SSL</span>, you can ignore the slapd_flags line entirely.</p>
@@ -569,11 +570,10 @@ uid=10000(testuser) gid=10000(testgroup) groups=10000(testgroup)
 
 
 <?php
-    include 'includes/left.inc';
+    include 'left.inc';
 ?>
 
 
 <?php
-    include 'includes/footer.inc';
+    include 'footer.inc';
 ?>
-

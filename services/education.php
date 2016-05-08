@@ -1,25 +1,25 @@
 <?php
-set_include_path ("/var/www/html/opensitesolutions.com/");
+  set_include_path('includes:../../includes:../includes');
 ?>
 
 <?php
-    include 'services/includes/header_edu.inc';
+    include 'header_edu.inc';
 ?>
 <?php
-    include 'includes/topmenu.inc';
+    include 'topmenu.inc';
 ?>
 
 <?php
-    include 'includes/right.inc';
+    include 'right.inc';
 ?>
 
 <!-- Center Column -->
                 <div id="primaryContentContainer">
                         <div id="primaryContent">
                                 <h2 id="top">Education</h2>
-			
+
 		<br>
-		<h2>Categories</h2>		
+		<h2>Categories</h2>
 		<ul>
 		<li><a href="#cms">Open Source Content Management Systems</a></li>
 		<li><a href="#math">Open Source for Math</a></li>
@@ -100,10 +100,10 @@ tem, LibLime's outstanding service packages combine the security of vendor servi
 
 
 <?php
-    include 'includes/left.inc';
+    include 'left.inc';
 ?>
 
 
 <?php
-    include 'includes/footer.inc';
+    include 'footer.inc';
 ?>

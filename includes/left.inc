@@ -25,7 +25,7 @@
 						</ul>
 
 			<?php
- 			       include 'includes/adds/google_adsense_small_square_left.inc';
+ 			       include 'google_adsense_small_square_left.inc';
 			?>
 
       <!--- Top kewords search analytics -->

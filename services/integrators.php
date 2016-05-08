@@ -1,16 +1,17 @@
 <?php
-set_include_path ("/var/www/html/opensitesolutions.com/");
+  set_include_path('includes:../../includes:../includes');
 ?>
 
 <?php
-    include 'services/includes/header_int.inc';
-?>
-<?php
-    include 'includes/topmenu.inc';
+    include 'header_int.inc';
 ?>
 
 <?php
-    include 'includes/right.inc';
+    include 'topmenu.inc';
+?>
+
+<?php
+    include 'right.inc';
 ?>
 
 <!-- Center Column -->
@@ -147,10 +148,10 @@ Featured Services:
 
 
 <?php
-    include 'includes/left.inc';
+    include 'left.inc';
 ?>
 
 
 <?php
-    include 'includes/footer.inc';
+    include 'footer.inc';
 ?>

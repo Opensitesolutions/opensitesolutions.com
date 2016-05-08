@@ -1,20 +1,24 @@
 <?php
-    include 'includes/header.inc';
+  set_include_path('includes:../includes');
 ?>
 
 <?php
-    include 'includes/topmenu.inc';
+    include 'header.inc';
 ?>
 
 <?php
-    include 'includes/right.inc';
+    include 'topmenu.inc';
+?>
+
+<?php
+    include 'right.inc';
 ?>
 
 <!-- Center Column -->
                 <div id="primaryContentContainer">
                         <div id="primaryContent">
                                 <h2>Contact Us</h2>
-<br>					
+<br>
         <p>
         For consulting services in implementing, installing and supporting opens source applications in your environment please email <a href="mailto:consulting@opensitesolutions.com">consulting</a>.
         </p>
@@ -27,10 +31,10 @@
 
 
 <?php
-    include 'includes/left.inc';
+    include 'left.inc';
 ?>
 
 
 <?php
-    include 'includes/footer.inc';
+    include 'footer.inc';
 ?>

@@ -1,15 +1,16 @@
 <?php
-set_include_path ("/var/www/html/oss/");
-?>
-<?php
-    include 'includes/header.inc';
-?>
-<?php
-    include 'includes/topmenu.inc';
+  set_include_path('includes:../includes');
 ?>
 
 <?php
-    include 'includes/right.inc';
+    include 'header.inc';
+?>
+<?php
+    include 'topmenu.inc';
+?>
+
+<?php
+    include 'right.inc';
 ?>
 
 <!-- Center Column -->
@@ -32,9 +33,9 @@ Open source is not <b><a href="http://en.wikipedia.org/wiki/Freeware">freeware</
         <!-- End center Column -->
 
 <?php
-    include 'includes/left.inc';
+    include 'left.inc';
 ?>
 
 <?php
-    include 'includes/footer.inc';
+    include 'footer.inc';
 ?>

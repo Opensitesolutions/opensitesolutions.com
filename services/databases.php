@@ -1,23 +1,23 @@
 <?php
-set_include_path ("/var/www/html/opensitesolutions.com/");
+  set_include_path('includes:../../includes:../includes');
 ?>
 
 <?php
-    include 'services/includes/header_db.inc';
+    include 'header_db.inc';
 ?>
 <?php
-    include 'includes/topmenu.inc';
+    include 'topmenu.inc';
 ?>
 
 <?php
-    include 'includes/right.inc';
+    include 'right.inc';
 ?>
 
 <!-- Center Column -->
                 <div id="primaryContentContainer">
                         <div id="primaryContent">
                                 <h2 id="top">Databases</h2>
-				
+
 <p class="post align-right">
         <ul>
         <b>Open Source Solutions</b>
@@ -35,7 +35,7 @@ tional SQL database engine. SQLite is the most widely deployed SQL database engi
 consumer electronic devices including cellphones, PDAs, and MP3 players.</li><br>
         </ul>
 </p>
-	
+
 
                         </div>
                 </div>
@@ -43,10 +43,10 @@ consumer electronic devices including cellphones, PDAs, and MP3 players.</li><br
 
 
 <?php
-    include 'includes/left.inc';
+    include 'left.inc';
 ?>
 
 
 <?php
-    include 'includes/footer.inc';
+    include 'footer.inc';
 ?>

@@ -1,16 +1,16 @@
 <?php
-set_include_path ("/var/www/html/opensitesolutions.com/");
+  set_include_path('~:includes:../../includes:../includes');
 ?>
 
 <?php
-    include 'services/includes/header.inc';
+    include 'header.inc';
 ?>
 <?php
-    include 'includes/topmenu.inc';
+    include 'topmenu.inc';
 ?>
 
 <?php
-    include 'includes/right.inc';
+    include 'right.inc';
 ?>
 
 <!-- Center Column -->
@@ -118,10 +118,10 @@ Here</a></div>
 
 
 <?php
-    include 'includes/left.inc';
+    include 'left.inc';
 ?>
 
 
 <?php
-    include 'includes/footer.inc';
+    include 'footer.inc';
 ?>

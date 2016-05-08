@@ -1,16 +1,16 @@
 <?php
-set_include_path ("/var/www/html/opensitesolutions.com/");
+  set_include_path('includes:../../includes:../includes');
 ?>
 
 <?php
-    include 'includes/header.inc';
+    include 'header.inc';
 ?>
 <?php
-    include 'includes/topmenu.inc';
+    include 'topmenu.inc';
 ?>
 
 <?php
-    include 'includes/right.inc';
+    include 'right.inc';
 ?>
 
 <!-- Center Column -->
@@ -41,7 +41,7 @@ packages to install
 			- gmake-3.81_2        GNU version of 'make' utility
 			- libiconv-1.11_1     A character set conversion library
 			- libtool-1.5.24      Generic shared library support script
-			- openldap-client-2.3.40 Open source LDAP client implementation 
+			- openldap-client-2.3.40 Open source LDAP client implementation
 			- pam_ldap-1.8.4      A pam module for authenticating with LDAP
 
 2. BSD 5.x System Settings
@@ -56,19 +56,19 @@ ln -s /usr/local/etc/ldap.conf /etc/ldap.conf
 
 6.x Systems Settings
 ----------------------------------
-1. cd  /usr/locatl/etc 
+1. cd  /usr/locatl/etc
 	- create config file
 		cp nss_ldap.conf.sample nss_ldap.conf
 	- created ldap config file
 		cp ldap.conf.dist
 
 Configuration parametets (Minimal) /usr/local/etc/nss_ldap.con and /usr/local/etc/ldap.conf
-1. host <ip address of ldap servers seperated by spaces> 
+1. host <ip address of ldap servers seperated by spaces>
 2. Distinguished name base <dc=domain,dc=com>
 
-Openldap cleint uses /usr/local/etc/openldap/ldap.conf as it's configuration file 
+Openldap cleint uses /usr/local/etc/openldap/ldap.conf as it's configuration file
 change the BASE and URI value to reflect your domain. commands that use this conf file are
-ldapsearch  
+ldapsearch
 
 3. System Authentication
 --------------------------------------
@@ -76,17 +76,17 @@ edit /etc/nsswitch.conf to look the settings below. - (File can be downloaded fr
 
 passwd:	files ldap
 group:	files ldap
-shells: 	files ldap	
+shells: 	files ldap
 
 authenticate first from local system settings and then from LDAP directory
 
 4. BSD PAM modules
 ---------------------------------
-PAM modules are located in /etc/pam.d directory 
+PAM modules are located in /etc/pam.d directory
 add the following line before each "auth required section" in the files mentioned below.
 	------ 	auth	sufficient	/usr/local/lib/pam_ldap.so	no_warn try_first_pass	---------
 Files
--sshd 
+-sshd
 username password sent to Ldap directory.
 
 -system file
@@ -115,10 +115,10 @@ Adding the line above will enable LDAP authentication for that application
 
 
 <?php
-    include 'includes/left.inc';
+    include 'left.inc';
 ?>
 
 
 <?php
-    include 'includes/footer.inc';
+    include 'ooter.inc';
 ?>

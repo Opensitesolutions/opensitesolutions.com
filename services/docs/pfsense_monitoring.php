@@ -1,22 +1,22 @@
 <?php
-set_include_path ("/var/www/html/opensitesolutions.com/");
+  set_include_path('includes:../../includes:../includes');
 ?>
 
 <?php
-    include 'services/includes/header_sec.inc';
+    include 'header_sec.inc';
 ?>
 <?php
-    include 'includes/topmenu.inc';
+    include 'topmenu.inc';
 ?>
 
 <?php
-    include 'includes/right.inc';
+    include 'right.inc';
 ?>
 
 <!-- Center Column -->
                 <div id="primaryContentContainer">
                         <div id="primaryContent">
-                                <h2>Pfsense Monitoring</h2>							
+                                <h2>Pfsense Monitoring</h2>
         <p>
         Pfsense firewall contains a large selection of real time reporting using stock open source software:
                 <ul>
@@ -42,10 +42,10 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
 
 
 <?php
-    include 'includes/left.inc';
+    include 'left.inc';
 ?>
 
 
 <?php
-    include 'includes/footer.inc';
+    include 'footer.inc';
 ?>

@@ -1,16 +1,16 @@
 <?php
-set_include_path ("/var/www/html/opensitesolutions.com/");
+  set_include_path('includes:../../includes:../includes');
 ?>
 
 <?php
-    include 'services/includes/header_virt.inc';
+    include 'header_virt.inc';
 ?>
 <?php
-    include 'includes/topmenu.inc';
+    include 'topmenu.inc';
 ?>
 
 <?php
-    include 'includes/right.inc';
+    include 'right.inc';
 ?>
 
 <!-- Center Column -->
@@ -34,7 +34,7 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
         <li><a href="http://wiki.qemu.org/Index.html" target="_blank" name="em2"> QEMU</a> is a generic and open source machine emulator and virtualizer. When used as a machine emulator, QEMU can run OSes and programs made for one machine (e.g. an ARM board) on a different machine (e.g. your own PC). By using dynamic translation, it achieves very good performances. When used as a virtualizer, QEMU achieves near native performances by executing the guest code directly on the host CPU. A host driver called the QEMU accelerator (also known as KQEMU) is needed in this case. The virtualizer mode requires that both the host and guest machine use x86 compatible processors. </li><br>
 <a href="#top">Top</a>
         </ul>
-</p>	
+</p>
 
 <h5 id="virt">Virtualization</h5>
 <p class="post align-right">
@@ -68,10 +68,10 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
 
 
 <?php
-    include 'includes/left.inc';
+    include 'left.inc';
 ?>
 
 
 <?php
-    include 'includes/footer.inc';
+    include 'footer.inc';
 ?>

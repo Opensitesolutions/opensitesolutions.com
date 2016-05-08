@@ -1,16 +1,16 @@
 <?php
-set_include_path ("/var/www/html/opensitesolutions.com/");
+  set_include_path('includes:../../includes:../includes');
 ?>
 
 <?php
-    include 'services/includes/header_net.inc';
+    include 'header_net.inc';
 ?>
 <?php
-    include 'includes/topmenu.inc';
+    include 'topmenu.inc';
 ?>
 
 <?php
-    include 'includes/right.inc';
+    include 'right.inc';
 ?>
 
 <!-- Center Column -->
@@ -18,7 +18,7 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
                         <div id="primaryContent">
                                 <h2 id="top">Network</h2>
 
-<br>		
+<br>
 <h2>Categories</h2>
 <ul>
 <li><a href="#mail">Open Source Mail - Groupware applications</a></li>
@@ -120,7 +120,7 @@ terprise-grade system for backing up MS Windows desktop PCs, laptops and servers
 	<li><a href="http://www.tivano.com/software/amanda/index.shtml" target="_blank">Amanada CDRW-Taper</a> is a drop-in replacement for the taper component of the Amanda backup system. CDRW-Taper makes it possible to dump backups to CD-RW, DVD+RW or DVD-RW instead of tape.</li>
 	</ul>
 .</li>
-		
+
 <a href="http://www.mozy.com/home?ref=3f9a896b&kbid=39179&m=13&i=74"><img border="0" src="http://affiliates.mozy.com/b.aspx?id=39179&mm=13&img=Mozy-should-be-728x90.gif"/></a>
 <br>
 
@@ -193,10 +193,10 @@ the foundation upon which to build higher level solutions, and provides a plugga
 
 
 <?php
-    include 'includes/left.inc';
+    include 'left.inc';
 ?>
 
 
 <?php
-    include 'includes/footer.inc';
+    include 'footer.inc';
 ?>
