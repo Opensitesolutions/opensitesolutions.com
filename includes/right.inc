@@ -5,6 +5,11 @@
                         <h3>&nbsp</h3>
 
 			<br>
+			<!-- Bluehost advertising -->
+			<a href="//www.bluehost.com/track/cmills/right-side" target="_blank">
+				<img border="0" src="//bluehost-cdn.com/media/partner/images/cmills/189x116/bh-ppc-banners-dynamic-189x116.png">
+			</a>
+			<!-- End Bluehost adveertising -->
                        <br><br>
  			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 				<!-- open_site_solutions_right_smaill_square -->
@@ -23,6 +28,11 @@
 					</a>
 			<!-- End Freshbook add -->
 			<br>
+			 <!-- Begin Network Soluutions Add -->
+
+                                <a href="http://www.tkqlhce.com/click-7891558-10437536-1443800854000">
+                                <img src="http://www.ftjcfx.com/image-7891558-10437536-1443800854000" width="145" height="60" alt="Network Solutions®" border="0"/></a>
+             <!-- End Network Solutions Add -->
 
 		               <div class="xbg">
 
