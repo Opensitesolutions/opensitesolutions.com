@@ -16,7 +16,7 @@
 <!-- Center Column -->
                 <div id="primaryContentContainer">
                         <div id="primaryContent">
-                                <h2 id="top">Open Source Solutions for the Medical Profession</h2>
+                                <h2 id="top">Open Source Solutions for the Medical Professionals</h2>
 <br>
 <h5 id="prog">Medical Practice Management Software</h5>
 <p class="post align-right">
