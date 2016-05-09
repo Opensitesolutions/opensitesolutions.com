@@ -1,23 +1,24 @@
 <?php
-set_include_path ("/var/www/html/opensitesolutions.com/");
+  set_include_path('includes:../../includes:../includes');
+?>
+
+
+<?php
+    include 'header_osc.inc';
+?>
+<?php
+    include 'topmenu.inc';
 ?>
 
 <?php
-    include 'services/includes/header_osc.inc';
-?>
-<?php
-    include 'includes/topmenu.inc';
-?>
-
-<?php
-    include 'includes/right.inc';
+    include 'right.inc';
 ?>
 
 <!-- Center Column -->
                 <div id="primaryContentContainer">
                         <div id="primaryContent">
                                 <h2>E-commerce</h2>
-			
+
 <h5>Ecommerce Shopping Carts</h5>
 <p class="post align-right">
         <ul>
@@ -36,10 +37,10 @@ set_include_path ("/var/www/html/opensitesolutions.com/");
 
 
 <?php
-    include 'includes/left.inc';
+    include 'left.inc';
 ?>
 
 
 <?php
-    include 'includes/footer.inc';
+    include 'footer.inc';
 ?>
