@@ -10,7 +10,7 @@
 
         </center>
 
-                <p>Copyright &copy; 2006-2008 <a href="http://www.opensitesolutions.com" target="new_windo">www.opensitesolutions.com</a>. Designed by <a href="http://www.freecsstemplates.org">Free CSS Templates</a></p>
+                <p>Copyright &copy; 2006-2016 <a href="http://www.opensitesolutions.com" target="new_windo">www.opensitesolutions.com</a>. Designed by <a href="http://www.freecsstemplates.org">Free CSS Templates</a></p>
         </div>
         <!-- EndFooter -->
 
