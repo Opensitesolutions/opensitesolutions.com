@@ -1,47 +1,57 @@
+<!--- begin header --->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content=''>
+    <meta name="keywords" content="">
+    <title>Open source Medical billing software</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Ubuntu+Mono" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/styles.css" rel="stylesheet">
+    <link href="/css/custom.css" rel="stylesheet">
+</head>
+<body>
+
 <?php
-  set_include_path('includes:../../includes:../includes');
+set_include_path('.:includes:../includes:../../includes');
 ?>
 
 <?php
-    include 'header_medical.inc';
-?>
-<?php
-    include 'topmenu.inc';
+include 'navbar.inc'
 ?>
 
 <?php
-    include 'right.inc';
+include 'left.inc';
 ?>
 
-<!-- Center Column -->
-                <div id="primaryContentContainer">
-                        <div id="primaryContent">
-                                <h2 id="top">Medical Billing Software</h2>
-<br>
-<h5 id="prog">Medical Practice Management Software</h5>
-<p class="post align-right">
-        <ul>
-	<li><a href="http://www.misyshealthcare.com/" target="_blank"> Misys Healthcare Systems </a> develops and supports reliable, easy-to-use software and services of exceptional quality that enable physicians and caregivers to more easily manage the complexities of healthcare. Misys. family of leading clinical products and Web-based technologies are designed to share patient data across medical care settings. Misys makes Community EHR a reality by connectiong community-based physicians and caregivers to the acute care enterprise, enabling increased efficiencies, better decision-making and improved hospital-physician relations.<\li><br><br>
-        <b>Open Source Alternatives</b>
-	<li><a href="http://www.oemr.org/" target="_blank">OpenEMR</a> is a free medical practice management, electronic medical records, prescription writing, and medical billing application. These programs are also referred to as electronic health records. It is a free open source replacement for medical applications such as Medical Manager, Health Pro, and Misys. It features support for EDI billing to clearing houses such as MedAvant and ZirMED using ANSI X12. Medical claim and accounts receivable are accomplished through SQL-Ledger, which has been customized. Calendar features include categories for appointment types, colors associated with appointment types, repeating appointments, and the ability to restrict appointments based on type. There are customizable medical encounter forms, support for voice recognition software, electronic or scanned digital document management for records, and support for HL7 messages.</li><br>
-<a href="#top">Top</a>
+<!--- begin center column Place information here--->
+<div class="col-md-8">
+ <div class="container-fluid">
+   <!--- begin content --->
 
-        </ul>
-</p>
+    <h1 id="top">Open source Medical Billing Software</h1>
 
-<p>Other open source <a href="/services/medical.php">medical</a> billing software
+    <p>
+    <ul>
+    <li><a href="http://www.oemr.org/" target="_blank">OpenEMR</a> is a free medical practice management, electronic medical records, prescription writing, and medical billing application. These programs are also referred to as electronic health records. It is a free open source replacement for medical applications such as Medical Manager, Health Pro, and Misys. It features support for EDI billing to clearing houses such as MedAvant and ZirMED using ANSI X12. Medical claim and accounts receivable are accomplished through SQL-Ledger, which has been customized. Calendar features include categories for appointment types, colors associated with appointment types, repeating appointments, and the ability to restrict appointments based on type. There are customizable medical encounter forms, support for voice recognition software, electronic or scanned digital document management for records, and support for HL7 messages.</li><br>
+    <a href="#top">Top</a>
 
+    </ul>
+    </p>
+   <!--- end content --->
 
-                        </div>
-                </div>
-        <!-- End center Column -->
-
+ </div>
+</div>
+<!--- end center column --->
 
 <?php
-    include 'left.inc';
+include 'right.inc';
 ?>
 
-
 <?php
-    include 'footer.inc';
+include 'footer.inc';
 ?>
