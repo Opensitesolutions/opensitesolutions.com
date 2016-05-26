@@ -18,7 +18,7 @@
       <ul class="nav navbar-nav navbar-right">
         <li class="active"><a href="/services/docs/">Arcticles</a></li>
         <li class="dropdown">
-          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Business<span class="caret"></span></a>
+          <a class="active" class="dropdown-toggle" data-toggle="dropdown" href="#">Business<span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="/services/business.php">Applications</a></li>
             <li><a href="/services/communication.php">Communication</a></li>
