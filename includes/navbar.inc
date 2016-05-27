@@ -18,9 +18,10 @@
       <ul class="nav navbar-nav navbar-right">
         <li class="active"><a href="/services/docs/">Arcticles</a></li>
         <li class="dropdown">
-          <a class="active" class="dropdown-toggle" data-toggle="dropdown" href="#">Business<span class="caret"></span></a>
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Business<span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="/services/business.php">Applications</a></li>
+            <li><a href="/index.php">Desktop</a></li>
             <li><a href="/services/communication.php">Communication</a></li>
             <li><a href="/services/altcisco.php">Routing Software</a></li>
             <li><a href="/services/altcallmanager.php">Phone System</a></li>
@@ -33,7 +34,7 @@
             <li><a href="/services/openmedical.php">Medical</a></li>
           </ul>
         </li>
-        <li class="active"><a href="/services/integrators.php">Integrators</a></li>
+        <li><a href="/services/integrators.php">Integrators</a></li>
         <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">Network<span class="caret"></span></a>
           <ul class="dropdown-menu">
@@ -58,7 +59,6 @@
             <li><a href="/services/web.php">Web Development</a></li>
           </ul>
         </li>
-        <li class="active"><a href="/aboutus.php">About</a></li>
       </ul>
     </div>
 

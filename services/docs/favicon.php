@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content=''>
     <meta name="keywords" content="">
-    <title>Favicon</title>
+    <title>How to create a Favicon</title>
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Ubuntu+Mono" rel="stylesheet">
@@ -32,7 +32,7 @@ include 'left.inc';
  <div class="container-fluid">
    <!--- begin content --->
 
-        <h1>Favicon</h2>
+        <h1>How to create a Favicon</h1>
 
         <p>
         Every wonder how to make those favicon.ico images that appear besides your site name, or how to get rid of the <b>404</b> error messages "GET /favic
@@ -45,9 +45,9 @@ include 'left.inc';
         <p>
         <h3>Creating an image</h3>
         A favicon is a visual identity that is attached to your website. Creating this image can be done quite easily using open source tools.
-        <ul>
-        <li><a href="http://www.gimp.org">GIMP</a> for creating the image.
-        <li><a href="http://netpbm.sourceforge.net">Netpbm</a> for converting the image to the final format.
+        <ul class="list-item">
+        <li class="list-group-item"><a href="http://www.gimp.org">GIMP</a> for creating the image.
+        <li class="list-group-item"><a href="http://netpbm.sourceforge.net">Netpbm</a> for converting the image to the final format.
         </ul>
         </p>
         <p>
@@ -59,22 +59,19 @@ include 'left.inc';
         <h3>Converting the Image</h3>
         Once you have the image use the netpbm package to convert the image.<Br>
         command: (done from unix command line)<br><br>
-        <blockquote>
+        <code>
         ppmtowinicon -output favicon.ico input file.pnm (your file that you save from above).
-        </blockquote>
+        </code>
         </p>
 
-        <p>
+
         <h3>Add the Favicon image to your Website</h3>
-        To add your final "favicon.ico" to your website place the image in the root of your directory tree and or add the following url to your web pages.<b
-        r><br>
-        <pre>
-        <LINK REL="shortcut icon" href="http://www.yourdomain.com/favicon.ico">
-        </pre>
-        <br>
-        Once you have completed the above items you can now show off your work.
+        <p>
+        To add your final "favicon.ico" to your website place the image in the root of your directory tree and or add the following url to your web pages.
         </p>
-
+        <code>
+          <LINK REL="shortcut icon" href="/path/to/favicon.ico">
+        </code>
 
    <!--- end content --->
 

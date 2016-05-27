@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content=''>
     <meta name="keywords" content="">
-    <title>Changeme</title>
+    <title>Open source firewall PFsense</title>
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Ubuntu+Mono" rel="stylesheet">
@@ -32,16 +32,15 @@ include 'left.inc';
  <div class="container-fluid">
    <!--- begin content --->
 
-      <h1>PFSense Firewall</h1>
+      <h1>Open source firewall PFsense</h1>
+
+      <p>Firewalls provide protection from hackers trying to gain access to your computer, network through malicious means. The ser
+      ver sits between you and the internet acting as a security guard examining and stopping potential dangerous attacks.</p>
+
+      <p>This type of protection is no longer restricted to Enterprises.</p>
+
       <p>
-      <p>Firewalls provide protection from hackers trying to gain access to your computer, network through malicious means. This ser
-      ver sits between you and the internet acting as a security guard examining and stopping potential dangerous code.</p>
-
-      <p> This type of protection is no longer restricted to Enterprises, Opensitesolutions provides this perimeter defense at a low
-      cost service through software and hardware at an affordable price.</p>
-
-      <p class="post align-right">
-      <a href="http://www.pfsense.org" class="readmore">PFSENSE</a>
+      <a href="http://www.pfsense.org">PFSENSE</a>
       <span class="date">July 09, 2007</span>
       </p>
 
@@ -49,17 +48,17 @@ include 'left.inc';
       <h2>Firewall Appliance</h2>
       <img src="/images/pfsense_logo.gif">
       <p>Advances in technology and open source software has made implementing this solution using commodity hardware or modern devices very easy.</p>
-      <Ul>
-      <li>Secure Access to the internet</li>
-      <li>Stateful Protection</li>
-      <li>HTTP Access</li>
-      <li>Basic IM monitoring </li>
-      <li>Traffic Shaping</li>
-      <li><a href="pfsense_monitoring.php">Real Time Reporting</a></li>
-      <li>Intrusion Prevention</li>
-      <li>Web based Administration</li>
-      <li>Supports multiple interfaces, wan, wireless and DMZ</li>
-      <li>Supports DHCP, PPPOE, BIG POND and Static IP assignment</li>
+      <Ul class="list-group">
+      <li class="list-group-item">Secure Access to the internet</li>
+      <li class="list-group-item">Stateful Protection</li>
+      <li class="list-group-item">HTTP Access</li>
+      <li class="list-group-item">Basic IM monitoring </li>
+      <li class="list-group-item">Traffic Shaping</li>
+      <li class="list-group-item"><a href="pfsense_monitoring.php">Real Time Reporting</a></li>
+      <li class="list-group-item">Intrusion Prevention</li>
+      <li class="list-group-item">Web based Administration</li>
+      <li class="list-group-item">Supports multiple interfaces, wan, wireless and DMZ</li>
+      <li class="list-group-item">Supports DHCP, PPPOE, BIG POND and Static IP assignment</li>
       </ul>
 
       <p>

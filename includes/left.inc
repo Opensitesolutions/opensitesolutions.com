@@ -1,11 +1,16 @@
 <!--- begin lef column --->
 
 <div class="col-md-2">
-<div class="well">
-  <p>
-  For consulting services in implementing, installing and supporting opens source applications in your environment please email <a href="mailto:consulting@opensitesolutions.com">consulting</a>.
-  </p>
-</div>
+
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      Consulting services
+    </div>
+    <div class="panel-body">
+        Implementing, installing and supporting open source applications in your environment email 
+        <a href="mailto:consulting@opensitesolutions.com">consulting</a>
+    </div>
+  </div>
 
 <div>
     <!--- Responsive adds --->
