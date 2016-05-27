@@ -32,8 +32,8 @@ include 'left.inc';
  <div class="container-fluid">
    <!--- begin content --->
 
-      <h2 id="top">Open Source Integrators</h2>
-      <br>
+      <h1 id="top">Open Source Integrators</h1>
+
       <h2>Categories</h2>
 
       <ul class="lit">
