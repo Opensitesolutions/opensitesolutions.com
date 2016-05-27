@@ -36,12 +36,12 @@ include 'left.inc';
 
       <h2>Categories</h2>
 
-      <ul class="lit">
-      <li><a href="#dns">DNS</a></li>
-      <li><a href="#backup">Backup - Archiving</a></li>
-      <li><a href="#comm">Communication</a></li>
-      <li><a href="#web">Web Colloboration</a></li>
-      <li><a href="#idm">Identity Management</a></li>
+      <ul class="list-group">
+      <li class="list-group-item"><a href="#dns">DNS</a></li>
+      <li class="list-group-item"><a href="#backup">Backup - Archiving</a></li>
+      <li class="list-group-item"><a href="#comm">Communication</a></li>
+      <li class="list-group-item"><a href="#web">Web Colloboration</a></li>
+      <li class="list-group-item"><a href="#idm">Identity Management</a></li>
       </ul>
 
       <h5 id="dns">DNS Integrators</h5>
