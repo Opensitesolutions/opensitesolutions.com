@@ -1,5 +1,6 @@
 body {
   padding-top: 90px;
+  font-size: 17px;
 }
 
 .heading {
@@ -15,8 +16,6 @@ margin: auto;
 we inherited this setting from body */
 text-align: left;
 }
-
-
 
 .footer {
   padding-top: 10px;
