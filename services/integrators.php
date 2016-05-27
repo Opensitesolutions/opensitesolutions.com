@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content=''>
-    <meta name="keywords" content="">
+    <meta name="description" content='Companies that use open source software to create open source services.'>
+    <meta name="keywords" content="open source software, integration, open source, open source integration, open source software integration">
     <title>Open Source Integrators</title>
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" rel="stylesheet">
@@ -36,7 +36,7 @@ include 'left.inc';
       <br>
       <h2>Categories</h2>
 
-      <ul>
+      <ul class="lit">
       <li><a href="#dns">DNS</a></li>
       <li><a href="#backup">Backup - Archiving</a></li>
       <li><a href="#comm">Communication</a></li>
