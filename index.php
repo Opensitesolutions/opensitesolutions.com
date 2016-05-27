@@ -4,8 +4,8 @@
  <head>
      <meta charset="utf-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <meta name="description" content='Journey into using code and open source tools to create change'>
-     <meta name="keywords" content="">
+     <meta name="description" content='Open Site Solutions consulting, recommending, solutions and integration of services and software to create unique solutions.'>
+     <meta name="keywords" content="open source solutions, open integration, integration of open source software solutions, open source services. consultation of open source software">
      <META HTTP-EQUIV="CACHE-CONTROL" CONTENT="CACHE"/>
      <title>Open source for the Desktop<</title>
      <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
