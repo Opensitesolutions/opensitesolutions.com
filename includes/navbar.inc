@@ -16,7 +16,15 @@
 
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li class="active"><a href="/services/docs/">Arcticles</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Articles<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="/services/docs/apache.php">Apache</a></li>
+            <li><a href="/services/docs/favicon.php">Favicon</a></li>
+            <li><a href="/services/docs/firewall.php">Firewall</a></li>
+            <li><a href="/services/docs/freebsdldap_guide.php">LDAP</a></li>
+          </ul>
+        </li>
         <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">Business<span class="caret"></span></a>
           <ul class="dropdown-menu">
