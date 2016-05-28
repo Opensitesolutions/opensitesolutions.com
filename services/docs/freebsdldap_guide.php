@@ -550,33 +550,7 @@ include 'left.inc';
     </pre>
 
     <p>Now, if you ssh to localhost, it should work just fine. Entering in the password you created the account with (its unencrypted form of course).</p>
-
-
-    <h2>Credits</h2>
-
-
-    <h3>These be the folks making this happen&#8230;</h3>
-
-
-    <p>While this document has been written by myself, <a href="http://www.blurgle.ca/">Jeremy Tregunna</a> it has also been contributed to, by the following people:</p>
-
-
-    <ul>
-    <li><span class="caps">HEMI </span>- <a href="http://www.puresimplicity.net/~hemi/">http://www.puresimplicity.net/~hemi/</a>
-    <ul>
-    <li>Found various problems and pointed out issues.</li>
-    </ul>
-    </li>
-    <li>Lewis Thompson &#8211; <a href="http://www.lewiz.org/">http://www.lewiz.org/</a>
-    <ul>
-    <li>Submitted updates to the configuration, specifically per-user address books and <span class="caps">SSL </span>(though I did chomp it a little to make it more simple).</li>
-    </ul>
-    </li>
-    <li>Ian Moore
-    <ul>
-    <li>Suggested the usage of the -u option to slapadd to be sure its added properly (avoids headaches if a mistake was made).</li>
-    </ul></li>
-    </ul>
+    
 
    <!--- end content --->
 
