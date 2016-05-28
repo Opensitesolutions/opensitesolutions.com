@@ -1,10 +1,11 @@
 <!--- begin footer --->
 
+<!-- begin foorter content --->
 <div class="footer">
   <hr>
   <p>Copyright &copy; 2006-2016 <a href="http://www.opensitesolutions.com" target="new_window">www.opensitesolutions.com</a>. Designed by</p>
 </div>
-
+<!-- end foorter content --->
 
 <!-- google analytics tracking code --->
 <script>
@@ -15,7 +16,6 @@
 
   ga('create', 'UA-744038-1', 'auto');
   ga('send', 'pageview');
-
 </script>
 <!-- end google analytics tracking code --->
 
@@ -26,6 +26,4 @@
 <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 </body>
 </html>
-
-
 <!--- end footer --->
