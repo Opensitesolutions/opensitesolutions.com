@@ -7,7 +7,7 @@
       Consulting services
     </div>
     <div class="panel-body">
-        Implementing, installing and supporting open source applications in your environment email 
+        Implementing, installing and supporting open source applications in your environment email
         <a href="mailto:consulting@opensitesolutions.com">consulting</a>
     </div>
   </div>
@@ -27,8 +27,6 @@
             </script>
     <!--- end responsive adds --->
 </div>
-
-
 </div>
 
 <!--- end left column --->

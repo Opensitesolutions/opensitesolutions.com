@@ -1,7 +1,7 @@
-<!--- begin right column --->
 <div class="col-md-2">
-
+<!--- begin right column --->
     <!-- begin content -->
+    <!-- begin explaination about open site solutions --->
     <div class="panel panel-default">
       <div class="panel-heading">
         Open Site Solutions
@@ -13,9 +13,11 @@
         </p>
       </div>
     </div>
+    <!--- end explaination about open site solutions --->
           <hr>
+
+    <!--- Begin Responsive adds --->
     <div>
-        <!--- Responsive adds --->
                 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <!-- opensitesolutions.com -->
         <ins class="adsbygoogle"
@@ -27,9 +29,12 @@
         (adsbygoogle = window.adsbygoogle || []).push({});
         </script>
                 </script>
-        <!--- end responsive adds --->
     </div>
+    <!--- end responsive adds --->
+    
         <hr>
+
+    <!--- begin explaination about open source software --->
     <div class="panel panel-default">
         <div class="panel-heading">
             Open Source software
@@ -43,6 +48,8 @@
           </div>
         </div>
     </div>
+    <!--- end explaination about open source software --->
     <!--- end content --->
-</div>
+
 <!--- end right column --->
+</div>
