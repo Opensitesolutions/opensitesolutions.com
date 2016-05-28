@@ -1,11 +1,11 @@
 <!--- begin footer --->
 
-<!-- begin foorter content --->
+<!-- begin footer content --->
 <div class="footer">
   <hr>
-  <p>Copyright &copy; 2006-2016 <a href="http://www.opensitesolutions.com" target="new_window">www.opensitesolutions.com</a>. Designed by</p>
+  <p>Copyright &copy; 2006-2016 <a href="http://www.opensitesolutions.com" target="new_window">www.opensitesolutions.com</a></p>
 </div>
-<!-- end foorter content --->
+<!-- end footer content --->
 
 <!-- google analytics tracking code --->
 <script>
