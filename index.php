@@ -28,6 +28,15 @@ set_include_path('includes:../includes');
 include 'left.inc';
 ?>
 
+<!-- kontera content link -->
+
+<?php
+include 'kontera.inc'
+?>
+
+<!-- end Kontera content link --->
+
+
 <!--- begin center column Place information here--->
 <div class="col-md-8">
   <div class="container-fluid">
