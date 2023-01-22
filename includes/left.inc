@@ -14,17 +14,15 @@
 
 <div>
     <!--- Responsive adds --->
-            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <!-- opensitesolutions.com -->
-    <ins class="adsbygoogle"
-         style="display:block"
-         data-ad-client="ca-pub-9703614120192799"
-         data-ad-slot="1063171417"
-         data-ad-format="auto"></ins>
-    <script>
-    (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
-            </script>
+      <!-- Google tag (gtag.js) -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-TBZ9TTNLYH"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-TBZ9TTNLYH');
+      </script>
     <!--- end responsive adds --->
 </div>
 </div>
